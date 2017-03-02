@@ -1,0 +1,150 @@
+
+- name: Caroline Atyeo
+  email: catyeo
+  year: Junior
+  major: Bioengineering
+  image: catyeo.png
+  role: UTA
+
+
+- name: Stephanie Barnes
+  email: sbarnes
+  year: G6
+  major: Bioengineering
+  image: sbarnes.jpg
+  role: GTA
+
+
+- name: Suzy Beeler
+  email: sbeeler
+  year: G2
+  major: Biology
+  image: sbeeler.jpg
+  role: GTA
+
+
+- name: Nathan Belliveau
+  email: nbellive
+  year: G5
+  major: Bioengineering
+  image: nathan.jpg
+  role: GTA
+
+
+- name: Griffin Chure
+  email: gchure
+  year: G4
+  major: Biochemistry & Molecular Biophysics
+  image: gchure.png
+  role: GTA
+
+
+- name: Tal Einav
+  email: tal.einav
+  year: G4
+  major: Physics
+  image:  tal.jpg
+  role: GTA
+
+
+- name: Gloria Ha
+  email: gha
+  year: G4
+  major: Chemical Engineering
+  image: gloriaha.jpg
+  role: UTA
+
+
+- name: Soichi Hirokawa
+  email: shirokaw
+  year: G4
+  major: Applied Physics
+  image: soichi.jpg
+  role: GTA
+
+
+- name: Bill Ireland
+  email: wireland
+  year: G4
+  major: Physics
+  image: wireland.jpg
+  role: GTA
+
+
+- name: Jessica Li
+  email: jdli
+  year: Junior
+  major: Bioengineering
+  image: jli.jpg
+  role: UTA
+
+
+- name: Emily Miao
+  email: emiaou
+  year: Junior
+  major: Chemical Engineering
+  image: emiaou.jpg
+  role: UTA
+
+
+- name: Anvita Mishra
+  email: ammishra
+  year: Junior
+  major: Bioengineering
+  image: anvita.jpg
+  role: UTA
+
+
+- name: Andrew Montequin
+  email: amontequin
+  year: Junior
+  major: Bioengineering
+  image: amontequin.png
+  role: UTA
+
+
+- name: Muir Morrison
+  email: muir
+  year: G4
+  major: Physics
+  image: muir.jpg
+  role: GTA
+
+
+- name: Rob Phillips
+  email: phillips [at] pboc [dot] caltech [dot] edu
+  role: Professor
+  image: rob.jpg
+  link: http://www.rpgroup.caltech.edu
+
+
+- name: Manuel Razo-Mejia
+  email: mrazomej
+  year: G3
+  major: Biochemistry & Molecular Biophysics
+  image: manuel.jpg
+  role: GTA
+
+
+- name: Janice Jeon
+  email: jjeon
+  year: Junior
+  major: Bioengineering
+  image: jjeon.jpg
+  role: UTA
+
+
+- name: Claudia Jette
+  email: cjette
+  year: G1
+  major: Biochemistry & Molecular Biophysics
+  image: cjette.png
+  role: GTA
+
+
+- name: Sasha Zemsky
+  email: szemsky
+  year: Senior
+  major: Bioengineering
+  image: szemsky.jpg
+  role: UTA
