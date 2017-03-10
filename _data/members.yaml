@@ -11,7 +11,7 @@
   email: sbarnes
   year: G6
   major: Bioengineering
-  image: sbarnes.jpg
+  image: sbarnes2.png
   role: GTA
 
 
@@ -21,15 +21,6 @@
   major: Biology
   image: sbeeler.jpg
   role: GTA
-
-
-- name: Nathan Belliveau
-  email: nbellive
-  year: G5
-  major: Bioengineering
-  image: nathan.jpg
-  role: GTA
-
 
 - name: Griffin Chure
   email: gchure
@@ -78,6 +69,12 @@
   image: jli.jpg
   role: UTA
 
+- name: Emily Meany
+  email: emeany
+  year: Senior
+  major: Bioengineering
+  image: emeany.png
+  role: UTA
 
 - name: Emily Miao
   email: emiaou
@@ -110,11 +107,17 @@
   image: muir.jpg
   role: GTA
 
+- name: Rachel Ng
+  email: rng
+  year: Junior
+  major: Bioengineering
+  image: rng.jpg
+  role: UTA
 
 - name: Rob Phillips
   email: phillips [at] pboc [dot] caltech [dot] edu
   role: Professor
-  image: rob.jpg
+  image: rob2.png
   link: http://www.rpgroup.caltech.edu
 
 
