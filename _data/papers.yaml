@@ -1,4 +1,4 @@
-Week 1 - Biogeography:
+Week 1 - Biogeography and Introduction:
   - title: "Freshwater paths across the ocean: Molecular Phylogeny of the frog <i>Pychadena newtoni</i> gives insights into amphibian colonization of oceanic islands"
     author: "G. John Measey et al."
     journal: "Journal of Biogeography"
@@ -6,6 +6,7 @@ Week 1 - Biogeography:
     number: (1)
     year: 2007
     PDF: "Measey2007.pdf"
+    description: "This paper examines the biogeography and origins of the <i> Pychadena newtoni</i> frogs on São Tomé and Príncipe and their travel across Africa."
 
   - title: "Nepalese origin of cholera epidemic in Haiti"
     author: "R. R. Frerichs et al."
@@ -14,15 +15,86 @@ Week 1 - Biogeography:
     number: (6)
     year: 2012
     PDF: "Frerichs2012.pdf"
+    description:
+      "This work determines the origin of the sudden Haitian Cholera outbreak in 2010 following the catastrophic magnitude 7 earthquake in January of that year. This study shows how sequencing can be used to track the geographic dispersal of life. "
+  - title: "A First Exposure to Statistical Mechanics for Life Scientists: Applications to Binding"
+    author: "Hernan G. Garcia, Jané Kondev, Nigel Orme, Julie A. Theriot, and Rob Phillips."
+    journal: "Self Published"
+    year: 2007
+    PDF: "Garcia2007.pdf"
+    description: 'Statistical mechanics is a powerful tool for the quantitative analysis of the molecules of
+the cell that we will turn to repeatedly throughout the term.  This article gives
+an introduction to the “statistical mechanics protocol” that can be used in problems
+ranging from the function of ion channels to how genes are regulated.'
+
+Week 2 - Trophic Cascades and Megafaunal Collapse:
+
+  - title: "Terror in Black and White"
+    author: "Robert L. Pittman and Susan J. Chivers."
+    journal: "Natural History"
+    volume: "12/1998 - 1/1999"
+    description: "This magazine article describes the author's observation of a coordinated killer whale attack on a pod of sperm whales of the coast of California."
+
+  - title: "Sequential megafaunal collapse in the North Pacific Ocean: An ongoing legacy of industrial whaling?"
+    author: "A. M. Springer et al.."
+    journal: "PNAS"
+    volume: 100
+    number: (21)
+    year: 2003
+    description: "A sudden decline in the population of Stellar sea lions in the Northern Pacific Ocean and Bering during the 1980's took the marine conservation community by surprise. While many hypothesized the cause was due to nutritional limitation, the authors of this work describe an alternative hypothesis in which the post-war whaling industry lead to a sequential megafaunal collapse, upending the fragile marine ecosystem."
+
+  - title: "Mammal-eating killer whales, industrial whaling, and the sequential megaffaunal collapse in the North Pacific Ocean: A reply to critics of Springer <i>et al.</i> 2003"
+    author: "A. M. Springer et al.."
+    journal: "Marine Mammal Science"
+    volume: 24
+    number: (2)
+    year: 2008
+    PDF: "Springer2008.pdf"
+    description: 'The author 2003 paper on the megafaunal collapse in the North Pacific Ocean was met with harsh criticism and dubious claims and suspect claims of probability. In this work, the authors respond to these criticisms in a detailed manner, strengthening their claims.'
+
+  - title: "Killer appetites: assesing the role of predators in ecological communities."
+    author: "T. M. Williams et al.."
+    journal: "Ecology"
+    volume: 85
+    number: (12)
+    year: 2004
+    PDF: "Williams2004.pdf"
+    description: "Building upon their previous work (Springer et al. 2003), the authors explore the influence large predators with high daily caloric requirements can exert on large, interconnected ecological communities."
+
+
+  - title: "Causes and consequences of marine mammal population declines in southwest Alaska: a food-web perspective"
+    author: J. A. Estes, D. F. Doak, A. M. Springer, and T. M. Williams.
+    journal: Philosophical Transatctions of the Royal Society B
+    volume: 364
+    year: 2009
+    PDF: "Estes2009.pdf"
+    description: "The authors examine the megafaunal collapse of Orcas due to a decline in sea otter populations. This work emphasizes the interconnectedness of ecosystems and how small perturbations of one component can trigger large-scale changes."
 
 Week 3 - Evolution:
-  - title: "Pelvic girdle and fin of <i>Tiktaalik roseae</i>"
-    author: "Neil H. Shubin, Edward B. Daeschler, and Farish A. Jenkins Jr."
-    journal: "PNAS"
-    volume: 111
-    number: (3)
-    year: 2014
-    PDF: "Shubin2014.pdf"
+  - title: Whale Evolution
+    author: "Philip Gingerich."
+    link: https://www.youtube.com/watch?v=I2C-3PjNGok
+    journal: PBS
+    year: 2007
+    description: "A very interesting brief video featuring Philip Gingerich and his work on whale evolution and the fossil record."
+
+  - title: "A Devonian tetrapod-like fish and the evolution of the tetrapod body plan"
+    author: "Edward B. Daeschler, Neil H. Shubin, and Farish A. Jenkins Jr."
+    journal: "Nature"
+    volume: 440
+    number: (6)
+    year: 2006
+    PDF: "Daeschler2006.pdf"
+    description:
+      "While the relationship between fins and limbs has been well characterized, the origin of the major tetrapod features absent in finned aquatic organisms was a puzzle for decades. The authors discovered and described <i>Tiktaalik roseae</i>, a representative organism in the process of the fin-to-limb transition."
+  - title: "From Land to Water: the Origins of Whales, Dolphins, and Porpoises"
+    author: "J. G. M. Thewissen et al.."
+    journal: "Evolution: Education and Outreach"
+    volume: 2
+    year: 2009
+    PDF: Thewissen2009.pdf
+    description:
+      "While land-dwelling tetrapods arose from aquatic life, several large aquatic mammals developed from land-dwelling tetrapods venturing into the water. This paper covers the origins of dolphins, whales, and porpoises and covers the evolution of the cetacean organ system in detail."
 
 Week 4 - Population Genetics:
   - title: "Gene Frequency in Small Populations of Mutant <i> Drosophila</i>"
@@ -32,6 +104,28 @@ Week 4 - Population Genetics:
     number: (4)
     year: 1956
     PDF: "Buri1956.pdf"
+    description:
+      "This seminal work performed a beautiful experiment measuring the effect of genetic drift on small populations using <i>Drosophila</i>."
+
+  - title: "From biophysics to evolutionary genetics: statistical aspects of gene regulation"
+    author: "Michael Lässig."
+    journal: BMC Bioinformatics
+    volume: 8
+    number: (6)
+    year: 2007
+    PDF: Lassig2007.pdf
+    description:
+      "A wonderful review by statistical physicist Michael Lässig on the connection between biophysics and evolutionary fitness landscapes."
+
+  - title: "Predicting evolution"
+    author: "Michael Lässig, Ville Mustonen, and Aleksandra M. Walczak."
+    journal: "Nature Ecology and Evolution"
+    volume: 1
+    issue: (77)
+    year: 2017
+    PDF: "Lassig2017.pdf"
+    description:
+      "A recent review and perspective on the changing face of evolution and how the use of concepts from physics can help build a predictive theory of evolution."
 
 Week 6 - Cell Biology & Gene Expression:
   - title: "Qunatitative dissection of the simple repression input-output function"
@@ -41,12 +135,24 @@ Week 6 - Cell Biology & Gene Expression:
     number: (29)
     year: 2011
     PDF: "Garcia2011.pdf"
+    description:
+      "As is mentioned in the week one readings, statistical mechanics is a useful tool in a biologists toolbox. This paper shows the predictive power of a statistical mechanical description of genetic regulation via simple repression."
 
 Week 7 -  The Body Plan:
-  - title: "Diffussion and scaling during early embryonic pattern formation"
-    author: "Thomas Gregor et al."
+  - title: "A Gradient of <i>bicoid</i> Protein in Drosophila Embryos"
+    author: "Wolfgang Driever and Christiane Nüsslein-Volhard."
+    journal: Cell
+    volume: 54
+    year: 1988
+    PDF: "Driever1988.pdf"
+    description:
+      "This work first described the concentration profile of the morphogen protein <i>bicoid</i> in developing <i>Drosophila</i> embryos, suggesting that expression was under temporal control. They hypothesized that the graident was due to diffusion from the anterior pole of the embryo."
+
+  - title: "Dynamic interprestation of materinal inputs by the <i>Drosophila</i> segmentation gene network."
+    author: "Feng Liu, Alexander H. Morrison, and Thomas Gregor."
     journal: "PNAS"
-    volume: 102
-    number: (51)
-    year: 2005
-    PDF: "Gregor2005.pdf"
+    volume: 110
+    number: (17)
+    year: 2013
+    description:
+      "In this work, the authors test the assertion in Deriever and Nüsslein-Volhard that the exponential distribution of the <i>bicoid</i> morphogen in <i>Drosophila</i> was due to diffusion of the protein from the anterior pole."
