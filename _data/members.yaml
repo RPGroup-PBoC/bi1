@@ -22,6 +22,13 @@
   image: sbeeler.jpg
   role: GTA
 
+- name: Lily Chen
+  email: lchen
+  year: Senior
+  major: Bioengineering
+  image: lchen.jpeg
+  role: UTA
+
 - name: Griffin Chure
   email: gchure
   year: G4
@@ -40,7 +47,7 @@
 
 - name: Gloria Ha
   email: gha
-  year: G4
+  year: Junior
   major: Chemical Engineering
   image: gloriaha.jpg
   role: UTA
