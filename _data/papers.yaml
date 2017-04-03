@@ -34,6 +34,7 @@ Week 2 - Trophic Cascades and Megafaunal Collapse:
     journal: "Natural History"
     volume: "12/1998 - 1/1999"
     description: "This magazine article describes the author's observation of a coordinated killer whale attack on a pod of sperm whales off the coast of California."
+    PDF: Pitman1998.pdf"
 
   - title: "Sequential megafaunal collapse in the North Pacific Ocean: An ongoing legacy of industrial whaling?"
     author: "A. M. Springer et al.."
@@ -41,6 +42,7 @@ Week 2 - Trophic Cascades and Megafaunal Collapse:
     volume: 100
     number: (21)
     year: 2003
+    PDF: "Springer2003.pdf"
     description: "A sudden decline in the population of Stellar sea lions in the Northern Pacific Ocean and Bering during the 1980's took the marine conservation community by surprise. While many hypothesized the cause was due to nutritional limitation, the authors of this work describe an alternative hypothesis in which the post-war whaling industry led to a sequential megafaunal collapse, upending the fragile marine ecosystem."
 
   - title: "Mammal-eating killer whales, industrial whaling, and the sequential megaffaunal collapse in the North Pacific Ocean: A reply to critics of Springer <i>et al.</i> 2003"
@@ -87,7 +89,7 @@ Week 3 - Evolution:
     PDF: "Daeschler2006.pdf"
     description:
       "While the relationship between fins and limbs has been well characterized, the origin of the major tetrapod features absent in finned aquatic organisms was a puzzle for decades. The authors discovered and described <i>Tiktaalik roseae</i>, a representative organism in the process of the fin-to-limb transition."
-      
+
   - title: "From Land to Water: the Origins of Whales, Dolphins, and Porpoises"
     author: "J. G. M. Thewissen et al.."
     journal: "Evolution: Education and Outreach"
