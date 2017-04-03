@@ -135,6 +135,12 @@
   image: manuel.jpg
   role: GTA
 
+- name: William Schmidt
+  email: wschmidt
+  year: Junior
+  major: Bioengineering
+  image: will.jpg
+  role: UTA
 
 - name: Janice Jeon
   email: jjeon
