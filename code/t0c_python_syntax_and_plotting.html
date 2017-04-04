@@ -11693,7 +11693,7 @@ ul.typeahead-list > li > a {
 body {
     color: #333;
     background: #f6f6f6;
-    width: 1000px;
+    width: 980px;
     margin: auto;
 }
 
@@ -11704,7 +11704,7 @@ body {
 
 div #notebook { /* center the content */
     background: #4b4b4b;
-    color: #333;
+    color: #333;    
     padding-left: 1em;
     padding-right: 1em;
     padding-top: 2ex;
@@ -11717,7 +11717,7 @@ div #notebook { /* center the content */
 
 div.text_cell {
     text-align: justify;
-    width: 105ex; /* instead of 100%, */
+    width: 105ex /* instead of 100%, */
 }
 
 div.text_cell_render{
@@ -11732,13 +11732,13 @@ div.text_cell_render{
 
 div.text_cell_render.border-box-sizing.rendered_html {
     margin: 0;
-    padding: 1em;
+    padding: 1em; 
     margin-left: 4ex;
     text-align: justify;
 }
 div.cell.text_cell.border-box-sizing {
     margin: 0;
-    padding: 0;
+    padding: 0; 
     text-align: justify;
 }
 .rendered_html h1 { /* Main titles big with more space*/
@@ -11746,7 +11746,7 @@ div.cell.text_cell.border-box-sizing {
     line-height: 1.4em;
     margin-bottom: 0.1em;
     padding: 0;
-    font-family: "Open Sans", Sans-Serif;
+    font-family: "Open Sans", Sans-Serif; 
     font-weight: Light;
 }
 .rendered_html h2 {
@@ -11820,14 +11820,14 @@ div.CodeMirror { /* code font */
     font-size: 12pt;
 }
 
-div.prompt {
-	display: none;
+div.prompt { /* remove In/Out prompt */
+    display: none;
 }
 
 div.cell.border-box-sizing.code_cell.rendered {
     font-size: 12pt;
 }
-
+ 
 div.output_subarea {
     border:none;
     font-size: 12pt;
@@ -11837,6 +11837,7 @@ div.output_subarea {
 h1 { color: #444; }
 h2 { color: #444; }
 h3 { color: #444; font-style: italic; font-weight: normal}
+
 
     </style>
 
@@ -13681,7 +13682,7 @@ GVYkSVKh/X9IbhXyQymXMQAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Importing this function will likely give you an warning (as is seen above), but this can be ignored. With this imported, let's go ahead and remake the plot from above.</p>
+<p>With this imported, let's go ahead and remake the plot from above. We'll also save it using the <code>plt.savefig</code> function. With this, you'll be able to insert your plots into the PDF assignments you will turn in.</p>
 
 </div>
 </div>
@@ -13700,6 +13701,7 @@ GVYkSVKh/X9IbhXyQymXMQAAAABJRU5ErkJggg==
 
 <span class="c1"># Add a legend</span>
 <span class="n">plt</span><span class="o">.</span><span class="n">legend</span><span class="p">()</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="s1">&#39;growth_simulation.pdf&#39;</span><span class="p">)</span>
 </pre></div>
 
 </div>
