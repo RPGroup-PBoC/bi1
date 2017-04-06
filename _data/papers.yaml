@@ -17,6 +17,17 @@ Week 1 - Biogeography and Introduction:
     PDF: "Frerichs2012.pdf"
     description:
       "This work determines the origin of the sudden Haitian Cholera outbreak in 2010 following the catastrophic magnitude 7 earthquake in January of that year. This study shows how sequencing can be used to track the geographic dispersal of life. "
+
+  - title: "Floods, floodplains, delta plains - a satelite imaging approach"
+    author: "James P.M. Syvitski, Irina Overeem, G. Robert Brakenridge, and Mark Hannon."
+    journal: "Sedimentary Geology"
+    volume: 267
+    year: 2012
+    PDF: "Syvitski2012.pdf"
+    description: "This paper examines the geography of large floodplains all
+    over the world and infers information regarding the frequency of large
+    floods over time."
+
   - title: "A First Exposure to Statistical Mechanics for Life Scientists: Applications to Binding"
     author: "Hernan G. Garcia, Jané Kondev, Nigel Orme, Julie A. Theriot, and Rob Phillips."
     journal: "Self Published"
@@ -32,7 +43,7 @@ ranging from the function of ion channels to how genes are regulated.'
     journal: Garland Science
     year: 2015
     description: "This book gives a view of how biological numeracy can provide
-insights into a broad variety of topics in modern biology." 
+insights into a broad variety of topics in modern biology."
     link: "http://book.bionumbers.org"
 
 Week 2 - Trophic Cascades and Megafaunal Collapse:
