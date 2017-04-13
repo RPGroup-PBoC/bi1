@@ -48,13 +48,15 @@ insights into a broad variety of topics in modern biology."
 
 Week 2 - Trophic Cascades and Megafaunal Collapse:
 
-  # - title: How should we be selecting our graduate students?
-  #   author: "Orion Weiner."
-  #   journal:
-  #   volume:
-  #   number:
-  #
-  - title: "Some animals ar emore equal than others"
+  - title: How should we be selecting our graduate students?
+    author: "Orion Weiner."
+    journal: Molecular Biology of the Cell
+    volume: 25
+    year: 2013
+    PDF: "Weiner2013.pdf"
+    description: This paper gives an interesting perspective on what makes a"good" graduate student.  great graduate student great.
+
+  - title: "Some animals are more equal than others"
     author: Howard Hughes Medical Institute
     year: 2013
     link: "http://www.hhmi.org/biointeractive/some-animals-are-more-equal-others-keystone-species-and-trophic-cascades"
