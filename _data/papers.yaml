@@ -116,13 +116,36 @@ David Attenborough has the most stunning footage of the great migration I have e
 You are busy, but perhaps take 30 minutes to watch at least part of it."
 
 
-Week 3 - Evolution:
+Week 3 - The Fossil Record and Evolution:
+
+  - title: "Annihilation of ecosystems by large asteroid impacts on the early Earth"
+    author: "Norman H. Sleep, Kevin J. Zahnle, James F. Kasting, and Harold J. Morowitz."
+    journal: Nature
+    volume: 342
+    year: 1989
+    PDF: "Sleep1989.pdf"
+    description: "This paper is considers the ability of large asteroid impacts
+    to sterilize ecosystems. This paper was the topic of our estimation
+    regarding asteroid size and impact energy."
+
   - title: Whale Evolution
     author: "Philip Gingerich."
     link: https://www.youtube.com/watch?v=I2C-3PjNGok
     journal: PBS
     year: 2007
     description: "A very interesting brief video featuring Philip Gingerich and his work on whale evolution and the fossil record."
+
+  - title: "On the Secular Cooling of teh Earth"
+    author: Lord Kelvin (William Thomson).
+    journal: "Transactions of the Royal Society of Edinburgh"
+    volume: XXIII
+    year: 1863
+    PDF: "Kelvin1863.pdf"
+    description: This fun paper by Lord Kelvin posits that the Earth is only
+    about 20,000,000 to 400,000,000 years old due to the current temperature of
+    the Earth. While we now know this is not correct (as he didn't know  about
+    convection currents and nuclear reactions), it is still an interesting view
+    into a once controversial topic and it's implication for evolution.
 
   - title: "A Devonian tetrapod-like fish and the evolution of the tetrapod body plan"
     author: "Edward B. Daeschler, Neil H. Shubin, and Farish A. Jenkins Jr."
