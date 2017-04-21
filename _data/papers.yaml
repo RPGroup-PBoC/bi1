@@ -54,7 +54,7 @@ Week 2 - Trophic Cascades and Megafaunal Collapse:
     volume: 25
     year: 2013
     PDF: "Weiner2013.pdf"
-    description: This paper gives an interesting perspective on what makes a"good" graduate student.  great graduate student great.
+    description: This paper gives an interesting perspective on what makes a"good" graduate student.
 
   - title: "Some animals are more equal than others"
     author: Howard Hughes Medical Institute
@@ -176,6 +176,14 @@ Week 3 - The Fossil Record and Evolution:
     description: "This  paper gives a beautiful description of the way in which molecules have evolved in  Cetaceans with respect to other mammals."
 
 Week 4 - Population Genetics:
+
+  - title: "Pigeon Breeding: Genetics at Work"
+    author: "The Genetic Science Center."
+    journal: "Unversity of Utah"
+    link: "http://learn.genetics.utah.edu/content/pigeons/"
+    description: Our discussion of heritable transmission of traits was based in part in thinking about
+the head-crest in pigeons and this wonderful website is a great resource to learn more.
+
   - title: "Gene Frequency in Small Populations of Mutant <i> Drosophila</i>"
     author: "Peter Buri."
     journal: "Evolution"
