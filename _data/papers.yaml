@@ -232,7 +232,7 @@ Week 5 - Photosynthesis:
      "These two brief entries from the molecule of the month series at the
      Protein Data Bank give a very nice description of the photosystem
      complexes, central to the process of photosynthesis."
-  
+
 
 Week 6 - Cell Biology & Gene Expression:
   - title: "Qunatitative dissection of the simple repression input-output function"
@@ -246,6 +246,17 @@ Week 6 - Cell Biology & Gene Expression:
       "As is mentioned in the week one readings, statistical mechanics is a useful tool in a biologists toolbox. This paper shows the predictive power of a statistical mechanical description of genetic regulation via simple repression."
 
 Week 7 -  The Body Plan:
+  - title: "Understanding morphogenetic growth control - lessons from flies"
+    author: "Ortud wartlick, Peer Mumcu, Frank Jülicher, and Marcos Gonzalez-Gaitan."
+    journal: "Nature Reviews"
+    year: 2011
+    volume: 12
+    PDF: "Wartlick2011.pdf"
+    description:
+      "In class we discuss the idea of morphogens and how they might confer
+      positional information in developing embryos.  This paper gives a review
+      of such ideas."
+    
   - title: "A Gradient of <i>bicoid</i> Protein in Drosophila Embryos"
     author: "Wolfgang Driever and Christiane Nüsslein-Volhard."
     journal: Cell
