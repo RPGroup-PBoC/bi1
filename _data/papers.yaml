@@ -256,7 +256,7 @@ Week 7 -  The Body Plan:
       "In class we discuss the idea of morphogens and how they might confer
       positional information in developing embryos.  This paper gives a review
       of such ideas."
-    
+
   - title: "A Gradient of <i>bicoid</i> Protein in Drosophila Embryos"
     author: "Wolfgang Driever and Christiane Nüsslein-Volhard."
     journal: Cell
@@ -266,7 +266,7 @@ Week 7 -  The Body Plan:
     description:
       "This work first described the concentration profile of the morphogen protein <i>bicoid</i> in developing <i>Drosophila</i> embryos, suggesting that expression was under temporal control. They hypothesized that the graident was due to diffusion from the anterior pole of the embryo."
 
-  - title: "Dynamic interprestation of materinal inputs by the <i>Drosophila</i> segmentation gene network."
+  - title: "Dynamic interpretation of materinal inputs by the <i>Drosophila</i> segmentation gene network."
     author: "Feng Liu, Alexander H. Morrison, and Thomas Gregor."
     journal: "PNAS"
     volume: 110
@@ -275,3 +275,15 @@ Week 7 -  The Body Plan:
     PDF: Liu2013.pdf
     description:
       "In this work, the authors test the assertion in Deriever and Nüsslein-Volhard that the exponential distribution of the <i>bicoid</i> morphogen in <i>Drosophila</i> was due to diffusion of the protein from the anterior pole."
+
+
+Week 8 - Chemotaxis and Vision:
+  - title: The Vertebrate Retina: Structure, Function, and Evolution
+    author: Jeremy Nathans.
+    journal: 'iBiology lectures'
+    year: 2010
+    link: "https://www.ibiology.org/ibioseminars/neuroscience/jeremy-nathans-part-1a.html"
+    description:
+      "These lectures from Jeremy Nathans are the best I know of
+      for getting a sense of the science behind vision.  Much of what I do in
+      class is inspired by Nathans."
