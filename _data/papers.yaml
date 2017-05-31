@@ -296,3 +296,12 @@ week 9 - Vision and Physical Limits:
 as told from the point of view of someone that loves both the biology
 and physics of vision.  This talk gives a preview of Phil’s deep
 understanding of the subject."
+
+  - title: "Deriving the Poisson distribution from the Binomial distribution"
+    author: "Rob Phillips, Jané Kondev, Julie Theriot, and Hernan Garcia."
+    journal: "from Physical Biology of the Cell, 2nd edition"
+    year: 2012
+    PDF: Phillips2012.pdf
+    description: "This shows how the Poisson distribution emerges
+from the binomial distribution in the limit that the probability
+of a success becomes very small and λ = Np is constant."
