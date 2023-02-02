@@ -1,0 +1,110 @@
+- name: Gabe Salmon
+  email: gsalmon
+  year: G4
+  major: Bioengineering
+  image: gsalmon.jpg
+  role: GTA
+  pronouns: he/him
+
+- name: Kian Faizi
+  email: kian
+  year: G2
+  major: Biology
+  image: kfaizi.jpg
+  role: GTA
+  pronouns: he/him
+
+- name: Rosalind Pan
+  email: rosalindpan
+  year: G1
+  major: Biochemistry & Molecular Biophysics
+  image: rpan.jpg
+  role: GTA
+  pronouns: she/her
+
+- name: David Larios
+  email: dalarios
+  year: G4
+  major: Biology 
+  image: dlarios.jpg
+  role: GTA
+  pronouns: he/him
+
+- name: Maria Carilli
+  email: mcarilli
+  year: G2
+  major: Biochemistry & Molecular Biophysics
+  image: mcarilli.jpg
+  role: GTA
+  pronouns: she/her
+
+- name: Gabby Dituri
+  email: gdituri
+  year: Senior
+  major: tbd
+  image: gdituri.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Katelyn Lee
+  email: kslee
+  year: Senior
+  major: tbd
+  image: klee.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Makena Rodriguez
+  email: mlrodrig
+  year: Senior
+  major: tbd
+  image: mrodriguez.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Maggie Sui
+  email: msui
+  year: Senior
+  major: tbd
+  image: msui.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Matticus Brown
+  email: msbrown
+  year: Senior 
+  major: tbd
+  image: mbrown.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Adele Basturk
+  email: abasturk
+  year: Sophomore
+  major: tbd
+  image: abasturk.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Maya de Luis
+  email: mdeluis
+  year: Sophomore 
+  major: tbd
+  image: mdeluis.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Victor Gomez
+  email: vgomez
+  year: Sophomore 
+  major: tbd
+  image: vgomez.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Rob Phillips
+  email: phillips@pboc.caltech.edu
+  role: Professor
+  image: rob2.png
+  link: http://www.rpgroup.caltech.edu
+  pronouns: he/him

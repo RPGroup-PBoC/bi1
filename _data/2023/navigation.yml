@@ -1,0 +1,15 @@
+sitemap:
+  - title: overview
+    url: /2023/index
+  - title: schedule
+    url: /2023/schedule
+  - title: policies
+    url: /2023/policies
+  - title: people
+    url: /2023/people
+  - title: homework
+    url: /2023/homework
+  - title: programming
+    url: /2023/programming
+  - title: readings
+    url: /2023/readings

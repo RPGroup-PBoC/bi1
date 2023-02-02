@@ -1,0 +1,15 @@
+sitemap:
+  - title: about
+    url: /2017/about
+  - title: schedule
+    url: /2017/schedule
+  - title: policies
+    url: /2017/policies
+  - title: people
+    url: /2017/people
+  - title: homework
+    url: /2017/homework
+  - title: programming
+    url: /2017/programming
+  - title: readings
+    url: /2017/readings
