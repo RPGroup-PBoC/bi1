@@ -38,6 +38,14 @@
   role: GTA
   pronouns: she/her
 
+- name: Anna Lapteva
+  email: alapteva
+  year: Senior
+  major: Bioengineering
+  image: alapteva.jpg
+  role: TA
+  pronouns: she/her
+
 - name: Gabby Dituri
   email: gdituri
   year: Senior
@@ -75,6 +83,14 @@
   year: Senior 
   major: Mechanical Engineering
   image: mbrown.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Sam Senzon
+  email: ssenzon
+  year: Senior
+  major: Physics
+  image: ssenzon.png
   role: TA
   pronouns: he/him
 
