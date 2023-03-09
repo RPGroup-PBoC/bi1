@@ -358,22 +358,22 @@ th {
 
 tr {
 	border-bottom: 1px solid #000000;
-	-transition:.6s;
-	-ms-transition:.6s;
-	-moz-transition:.6s;
-	-webkit-transition:.6s;
-	transition:.6s;
+	-transition:.2s;
+	-ms-transition:.2s;
+	-moz-transition:.2s;
+	-webkit-transition:.2s;
+	transition:.2s;
 
 }
 
 tr:hover {
-	background-color: #f2f2f2;
+	background-color: #fff2ec;
 	border-bottom: 1px solid #2b2b2b;
-	-transition:.6s;
-	-ms-transition:.6s;
-	-moz-transition:.6s;
-	-webkit-transition:.6s;
-	transition:.6s;
+	-transition:.2s;
+	-ms-transition:.2s;
+	-moz-transition:.2s;
+	-webkit-transition:.2s;
+	transition:.2s;
 
 }
 
