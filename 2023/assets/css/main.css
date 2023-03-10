@@ -187,11 +187,12 @@ nav {
 }
 
 .post blockquote {
-  padding-top: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: #f1f5f9;
-  opacity: 0.75;
+  max-width: 70%;
+  padding: 10px 10px;
+  margin-bottom: 1.45em;
+  background-color: #ddd;
+  font-family: 'Source Sans Pro', Arial, sans-serif;
+  font-size: 0.95rem;
 }
 
 #about a {
@@ -212,12 +213,14 @@ nav {
 
 .post p {
   font-family: 'Source Sans Pro', Arial, sans-serif;
-  font-size: 17px;
+  font-size: 0.95rem;
   margin-bottom: 1.45em;
   text-align: justify;
 }
 
 .post ul, .post ol {
+  font-family: 'Source Sans Pro', Arial, sans-serif;
+  font-size: 0.95rem;
   margin-left: 2.35em;
   margin-bottom: 1.25em;
 }
