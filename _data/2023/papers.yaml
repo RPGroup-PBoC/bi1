@@ -1,37 +1,112 @@
 # add files to /home/rpdata/public_html/courses/bi1_2023/protected
 
 Week 1 -- Migrations:
-  - title: "Terrestrial animal tracking as an eye on life and planet"
+  - title: "Terrestrial Animal Tracking as an Eye on Life and Planet"
     author: "Roland Kays, Margaret C. Crofoot, Walter Jetz, and Martin Wikelski."
     journal: "Science"
     year: 2015
     PDF: "Kays2015.pdf"
     description: "This very insightful article gives a wide ranging introduction to the modern state of the art in animal tracking. Every figure tells an important story."
 
-  - title: "Estimation of forage biomass and vegetation cover in grasslands using UAV imagery"
+  - title: "Estimation of Forage Biomass and Vegetation Cover in Grasslands Using UAV Imagery"
     author: "Jérôme Théau, Étienne Lauzier-Hudon, Lydiane Aubé, and Nicolas Devillers."
     journal: "PLOS ONE"
     year: 2021
     PDF: "Theau2021.pdf"
     description: "This paper is a useful resource for thinking about the biomass of grasslands, relevant to our thinking for both the migration of wildebeest and the grazing of our cattle."
 
-  - title: "Challenges and solutions for studying collective animal behavior in the wild"
+  - title: "Challenges and Solutions for Studying Collective Animal Behavior in the Wild"
     author: "Lacey F. Hughey, Andrew M. Hein, Ariana Strandburg-Peshkin, and Frants H. Jensen."
     journal: "Phil. Trans. R. Soc. B"
     year: 2018
     PDF: "Hughey2018.pdf"
     description: "This paper gives a very insightful overview of the technologies that are needed to study collective motions of animals."
 
-  - title: "Distinguishing technology from biology: a critical review of the use of GPS telemetry data in ecology"
+  - title: "Distinguishing Technology from Biology: a Critical Review of the Use of GPS Telemetry Data in Ecology"
     author: "Mark Hebblewhite and Daniel T. Haydon."
     journal: "Phil. Trans. R. Soc. B"
     year: 2010
     PDF: "Hebblewhite2010.pdf"
     description: "This paper takes a critical look at the generation of “big data” associated with animal movements. Though we are incredibly enthusiastic about GPS tracking, the arguments here remind us of our own thinking on the way that DNA sequencing and structural biology have created a similar big data pressure head in the molecular interpretation of life that might be similarly misleading."
   
-  - title: "From single steps to mass migration: the problem of scale in the movement ecology of the Serengeti wildebeest"
+  - title: "From Single Steps to Mass Migration: the Problem of Scale in the Movement Ecology of the Serengeti Wildebeest"
     author: "Colin J. Torney, J. Grant C. Hopcraft, Thomas A. Morrison, Iain D. Couzin, and Simon A. Levin."
     journal: "Phil. Trans. R. Soc. B"
     year: 2018
     PDF: "Torney2018.pdf"
     description: "If you are to read one paper from our list on the fascinating and inspiring topic of animal movements (and wildebeest in particular), this is it. The paper ranges from how measurements are done, to the kinds of data generated, to the kinds of models that are needed to come to terms with that data."
+
+
+Week 2 -- Biogeography:
+  - title: "Trophic Downgrading of Planet Earth"
+    author: "James A. Estes, John Terborgh, Justin S. Brashares, Mary E. Power, Joel Berger, William J. Bond, Stephen R. Carpenter, Timothy E. Essington, Robert D. Holt, Jeremy B. C. Jackson, Robert J. Marquis, Lauri Oksanen, Tarja Oksanen, Robert T. Paine, Ellen K. Pikitch, William J. Ripple, Stuart A. Sandin, Marten Scheffer, Thomas W. Schoener, Jonathan B. Shurin, Anthony R. E. Sinclair, Michael E. Soulé, Risto Virtanen, and David A. Wardle."
+    journal: "Science"
+    year: 2011
+    PDF: "Estes2011.pdf"
+    description: "This incredible paper is a sweeping review of the extensive cascading effects of the disappearance of apex predators in a variety of environments. It illustrates trophic impacts on everything from disease and wildfires to carbon sequestration and invasive species. See also the companion video, [Some Animals Are More Equal Than Others](https://www.biointeractive.org/classroom-resources/some-animals-are-more-equal-others-keystone-species-and-trophic-cascades)."
+
+  - title: "A Disease-Mediated Trophic Cascade in the Serengeti and its Implications for Ecosystem C"
+    author: "Ricardo M. Holdo, Anthony R. E. Sinclair, Andrew P. Dobson, Kristine L. Metzger, Benjamin M. Bolker, Mark E. Ritchie, and Robert D. Holt."
+    journal: "PLOS Biology"
+    year: 2009
+    PDF: "Holdo2009.pdf"
+    description: "A closer look at the many surprising effects of changing wildebeest population sizes in the Serengeti due to rinderpest infection."
+
+  - title: "Foraging Strategies of Glaucous-Winged Gulls in a Rocky Intertidal Community"
+    author: "David B. Irons, Robert G. Anthony, and James A. Estes."
+    journal: "Ecology"
+    year: 1986
+    PDF: "Irons1986.pdf"
+    description: "A fascinating case study related to our discussions of otters in the Aleutian islands, this paper finds that the eating habits of seagulls change drastically depending on the local otter population, thanks to a web of trophic dependencies."
+
+
+Week 3 -- Deep Time:
+  - title: "Molecules As Documents of Evolutionary History"
+    author: "Emile Zuckerkandl and Linus Pauling."
+    journal: "J. Theoret. Biol."
+    year: 1965
+    PDF: "Zuckerkandl1965.pdf"
+    description: "This classic paper, published by Zuckerkandl and Pauling while they were at Caltech, introduces many of the key concepts relevant to our discussion of molecular evolution, deep time, and using DNA as a biohistorical record."
+
+  - title: "Fossil Evidence for the Origin of Aquatic Locomotion in Archaeocete Whales"
+    author: "J. G. M. Thewissen, S. T. Hussain, and M. Arif."
+    journal: "Science"
+    year: 1994
+    PDF: "Thewissen1994.pdf"
+    description: "Fish swim in a side-to-side motion, but whales and other marine mammals use an up-and-down motion akin to the way land mammals walk. This paper describes the discovery of a fossil ancestral cetacean that represents a transitional form between modern whales and their ancient land-dwelling ancestors."
+
+  - title: "Molecular evolution tracks macroevolutionary transitions in Cetacea"
+    author: "Michael R. McGowen, John Gatesy, and Derek E. Wildman."
+    journal: "Trends in Ecology & Evolution"
+    year: 2014
+    PDF: "McGowen2014.pdf"
+    description: "This review outlines the myriad evolutionary mysteries that modern biologists are working to solve by studying the evolution of cetaceans, focused on the use of molecular data to understand the macroevolutionary transition from land to sea."
+
+  - title: "The Origin(s) of Whales"
+    author: "Mark D. Uhen."
+    journal: "Annu. Rev. Earth Planet. Sci."
+    year: 2010
+    PDF: "Uhen2010.pdf"
+    description: "Another comprehensive review of the evolutionary origins of modern whales. It covers far more of the details than we were able to cover in class."
+
+  - title: "Evidence for early life in Earth’s oldest hydrothermal vent precipitates"
+    author: "Matthew S. Dodd, Dominic Papineau, Tor Grenne, John F. Slack, Martin Rittner, Franco Pirajno, Jonathan O’Neil, and Crispin T. S. Little."
+    journal: "Nature"
+    year: 2017
+    PDF: "Dod2017.pdf"
+    description: "This paper introduces recent evidence from undersea vents for some of the oldest putative microscopic fossils yet found on Earth, which may be as old as 4.28 billion years."
+
+  - title: "The loss of taste genes in cetaceans"
+    author: "Kangli Zhu, Xuming Zhou, Shixia Xu, Di Sun, Wenhua Ren, Kaiya Zhou, and Guang Yang."
+    journal: "BMC Evolutionary Biology"
+    year: 2014 
+    PDF: "Zhu2014.pdf"
+    description: "As one window onto the evolutionary history of cetaceans, this paper examines the loss of taste genes, and explore potential evolutionary explanations for this loss."
+
+  - title: "Molecular Decay of the Tooth Gene Enamelin (ENAM) Mirrors the Loss of Enamel in the Fossil Record of Placental Mammals"
+    author: "Robert W. Meredith, John Gatesy, William J. Murphy, Oliver A. Ryder, and Mark S. Springer."
+    journal: "PLOS Genetics"
+    year: 2009
+    PDF: "Meredith2009.pdf"
+    description: "Similarly, this paper (which we referenced heavily in lecture) combines genetics and paleontology to highlight the loss of tooth enamel in mammals such as whales and sloths. You will perform a simplified but similar version of this analysis in your homework."
+
