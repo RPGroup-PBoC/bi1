@@ -1,0 +1,15 @@
+sitemap:
+  - title: overview
+    url: /2024/index
+  - title: schedule
+    url: /2024/schedule
+  - title: policies
+    url: /2024/policies
+  - title: people
+    url: /2024/people
+  - title: homework
+    url: /2024/homework
+  - title: tutorials
+    url: /2024/tutorials
+  - title: readings
+    url: /2024/readings
