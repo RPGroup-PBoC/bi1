@@ -20,8 +20,8 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 
 | Day | Time |
 | -- | -- |
-| Tuesday | 1:00pm -- 2:30pm |
-| Thursday | 1:00pm -- 2:30pm |
+| Tuesday | 1:00pm -- 2:25pm |
+| Thursday | 1:00pm -- 2:25pm |
 
 ### Recitations
 
