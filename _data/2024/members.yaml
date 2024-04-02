@@ -1,9 +1,16 @@
+- name: Rob Phillips
+  email: phillips@pboc.caltech.edu
+  role: Professor
+  image: rob2.png
+  link: http://www.rpgroup.caltech.edu
+  pronouns: he/him
+
 - name: Gabe Salmon
   email: gsalmon
   year: G6
   major: Bioengineering
   image: gsalmon.jpg
-  role: GTA
+  role: HTA
   pronouns: he/him
 
 - name: Kian Faizi
@@ -11,7 +18,7 @@
   year: G3
   major: Biology
   image: kfaizi.jpg
-  role: GTA
+  role: HTA
   pronouns: he/him
 
 - name: Rosalind Pan
@@ -19,7 +26,7 @@
   year: G2
   major: Biochemistry & Molecular Biophysics
   image: rpan.jpg
-  role: GTA
+  role: HTA
   pronouns: she/her
 
 - name: David Larios
@@ -27,7 +34,72 @@
   year: G5
   major: Biology 
   image: dlarios.jpg
-  role: GTA
+  role: TA
+  pronouns: he/him
+
+- name: Minakshi Ashok
+  email: mashok2
+  year: G2
+  major: Bioengineering
+  image: placeholder.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Doran Sekaran
+  email: dsekaran
+  year: G1
+  major: Biology
+  image: dsekaran.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Konnor von Emster
+  email: kve
+  year: G1
+  major: Biology
+  image: placeholder.jpg
+  role: TA
+  pronouns: he/him
+
+
+- name: Chase Blanchette
+  email: chase
+  year: MS
+  major: Electrical Engineering
+  image: cblanchette.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Amelia Burns
+  email: amelia
+  year: Senior
+  major: Bioengineering
+  image: aburns.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Lucas Pabarcius
+  email: lpabarci
+  year: Senior
+  major: Physics
+  image: lpabarcius.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Patill Daghlian
+  email: pdaghlian
+  year: Senior
+  major: Physics
+  image: pdaghlian.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Pranay Satya
+  email: psatya
+  year: Senior
+  major: Bioengineering
+  image: placeholder.jpg
+  role: TA
   pronouns: he/him
 
 - name: Sam Senzon
@@ -38,6 +110,14 @@
   role: TA
   pronouns: he/him
 
+- name: Suchitra Dara
+  email: sdara
+  year: Senior
+  major: Bioengineering
+  image: placeholder.jpg
+  role: TA
+  pronouns: she/her
+
 - name: Adele Basturk
   email: abasturk
   year: Junior
@@ -46,9 +126,50 @@
   role: TA
   pronouns: she/her
 
-- name: Rob Phillips
-  email: phillips@pboc.caltech.edu
-  role: Professor
-  image: rob2.png
-  link: http://www.rpgroup.caltech.edu
+- name: Emma Isella
+  email: emmaisella
+  year: Junior
+  major: Geobiology
+  image: placeholder.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Victor Gomez
+  email: vgomez
+  year: Junior
+  major: Physics
+  image: placeholder.jpg
+  role: TA
+  pronouns: he/him
+
+- name: J Escobar Avila
+  email: jcescoba
+  year: Sophomore
+  major: Applied Physics
+  image: placeholder.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Jaylen Shawcross
+  email: jaylens
+  year: Sophomore
+  major: Planetary Science & Mechanical Engineering
+  image: placeholder.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Sidd Ojha
+  email: sojha
+  year: Sophomore
+  major: Applied & Computational Math
+  image: placeholder.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Sub Sahoo
+  email: ssahoo
+  year: Sophomore
+  major: Computer Science
+  image: placeholder.jpg
+  role: TA
   pronouns: he/him

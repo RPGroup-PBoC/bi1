@@ -20,18 +20,34 @@ All emails are given as `<name>@caltech.edu` unless otherwise specified.
 <figcaption>
 <code>{{ author.email }}</code>
 </figcaption>
-
 </figure>
 </div>
 {% endif %}
 {% endfor %}
 
 
+## Head Teaching Assistants
+
+{% for author in site.data.2024.members %}
+{% if author.role == 'HTA' %}
+<div id="im">
+<figure>
+<b> {{ author.name }} </b><br/>
+<img src="{{ site.baseurl }}/2024/assets/images/people/{{ author.image }}" width="200" height="200"><br/>
+<figcaption>
+<i> {{ author.year }} - {{ author.major }}</i><br/>
+({{ author.pronouns }})<br/>
+<code>{{ author.email }}</code>
+</figcaption>
+</figure>
+</div>
+{% endif %}
+{% endfor %}
 
 ## Teaching Assistants
 
 {% for author in site.data.2024.members %}
-{% if author.role != 'Professor' %}
+{% if author.role == 'TA' %}
 <div id="im">
 <figure>
 <b> {{ author.name }} </b><br/>

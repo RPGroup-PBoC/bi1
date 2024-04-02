@@ -20,16 +20,45 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 
 | Day | Time |
 | -- | -- |
-| tbd | tbd |
+| Tuesday | 1:00pm -- 2:30pm |
+| Thursday | 1:00pm -- 2:30pm |
 
 ### Recitations
 
 | Day | Time | TAs |
 | -- | -- | -- |
-| tbd | tbd | tbd |
+| tbd | tbd | tbd
+
+<!-- | Monday | 9:00am -- 10:00am | Amelia, Sub, Adele |
+| Monday | 5:00pm -- 6:00pm | Minakshi, Emma, Jaylen |
+| Tuesday | 12:00pm -- 1:00pm | , Chase(?), J(?) |
+| Tuesday | 5:00pm -- 6:00pm | Rosalind, Sidd, [...] |
+| Tuesday | 6:00pm -- 7:00pm | Konnor, Victor, Suchitra |
+| Wednesday | 9:00am -- 10:00am | Doran, Lucas, Sam |
+| Wednesday | 5:00pm -- 6:00pm | Gabe, Pranay, [...] | -->
+
+
 
 ### Office Hours
 
 | Day | Time | TA | Location |
 | -- | -- | -- | -- |
 | tbd | tbd | tbd | tbd |
+
+
+<!-- | Monday | 1:00pm -- 2:00pm | Adele | tbd |
+| Monday | 3:00pm -- 4:00pm | Victor | tbd |
+| Monday | 4:00pm -- 5:00pm | Jaylen | tbd |
+| Monday | 5:00pm -- 6:00pm | Patill | tbd |
+| Tuesday | 10:00am -- 11:00am | Suchitra | tbd |
+| Tuesday | 4:00pm -- 5:00pm | Rosalind | tbd |
+| Tuesday | 7:00pm -- 8:00pm | Konnor | tbd |
+| Wednesday | 10:00am -- 11:00am | Doran | tbd |
+| Wednesday | 1:00pm -- 2:00pm | Minkashi | tbd |
+| Wednesday | 2:00pm -- 3:00pm | Sub | tbd |
+| Wednesday | 3:00pm -- 4:00pm | Gabe | tbd |
+| Wednesday | 4:00pm -- 5:00pm | Emma | tbd |
+| Wednesday | 5:00pm -- 6:00pm | Sam | tbd |
+| Wednesday | 7:00pm -- 8:00pm | Pranay | tbd |
+| Thursday | tbd | tbd | tbd |
+| Friday | 2:00pm -- 3:00pm | David | tbd | -->

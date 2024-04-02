@@ -1,1 +1,21 @@
-# add files to /home/rpdata/public_html/courses/bi1_2024/protected
+Week 1:
+  - title: "Terrestrial animal tracking as an eye on life and planet"
+    author: "Roland Kays, Margaret C. Crofoot, Walter Jetz, and Martin Wikelski."
+    journal: "Science"
+    year: 2015
+    link: "https://www.dropbox.com/scl/fi/80t5yajq684f4uoa1tbev/kays2015.pdf?rlkey=k73rewesqa63b04tehv8w7lgq&dl=0"
+    description: "A wide ranging introduction to the modern state of the art in animal tracking. Every figure tells an important story."
+
+  - title: "Aquatic animal telemetry: a panoramic window into the underwater world"
+    author: "Nigel Hussey, Steven Kessel, Kim Aarestrup, Steven Cooke, Paul Cowley, Aaron Fisk, Robert Harcourt, Kim Holland, Sara Iverson, John Kocik, Joanna Mills Flemming, and Fred Whoriskey."
+    journal: "Science"
+    year: 2015
+    link: "https://www.dropbox.com/scl/fi/rx3629hmqwbkdt8q4jlln/hussey2015.pdf?rlkey=udictla8mff3fmni0hobujlgp&dl=0"
+    description: "..."
+
+  - title: "Migratory shearwaters integrate oceanic resources across the Pacific Ocean in an endless summer"
+    author: "Scott Shaffer, Yann Tremblay, Henri Weimerskirch, Darren Scott, David Thomspon, Paul Sagar, Henrik Moller, Graeme Taylor, David Foley, Barbara Block, and Daniel Costa."
+    journal: "PNAS"
+    year: 2006
+    link: "https://www.dropbox.com/scl/fi/fskojtadxwqwa1ophwxpr/shaffer2006.pdf?rlkey=pphbrs6lbdpi0q4irj24ulnl8&dl=0"
+    description: "..."
