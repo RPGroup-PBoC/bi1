@@ -11,20 +11,20 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
  
 ## Assignments
 
-**Homework 1** \| *Migrations.* Due April 13th by 11:59pm.
+**Homework 1** \| *Migrations.* Due April 11th by 11:59pm.
 
-**Homework 2** \| *Biogeography.* Due April 20th by 11:59pm.
+**Homework 2** \| *Biogeography.* Due April 18th by 11:59pm.
 
-**Homework 3** \| *Evolution.* Due April 27th by 11:59pm.
+**Homework 3** \| *Evolution.* Due April 25th by 11:59pm.
 
-**Homework 4** \| *Population Genetics.* Due May 4th by 11:59pm. 
+**Homework 4** \| *Population Genetics.* Due May 2nd by 11:59pm. 
 
-**Homework 5** \| *What is Life?* Due May 11th by 11:59pm.
+**Homework 5** \| *What is Life?* Due May 9th by 11:59pm.
 
-**Homework 6** \| *Gene Expression I: Theory.* Due May 18th by 11:59pm.
+**Homework 6** \| *Gene Expression I: Theory.* Due May 16th by 11:59pm.
 
-**Homework 7** \| *Gene Expression II: Experiment.* Due May 25th by 11:59pm.
+**Homework 7** \| *Gene Expression II: Experiment.* Due May 23rd by 11:59pm.
 
-**Homework 8** \| *Size Control.* Due June 1st by 11:59pm.
+**Homework 8** \| *Size Control.* Due May 30th by 11:59pm.
 
-**Homework 9** \| *Estimates.* Due June 8th by 11:59pm. **Optional for seniors.** 
+**Homework 9** \| *Estimates.* Due June 6th by 11:59pm. **Optional for seniors.** 
