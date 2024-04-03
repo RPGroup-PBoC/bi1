@@ -41,7 +41,7 @@
   email: mashok2
   year: G2
   major: Bioengineering
-  image: placeholder.jpg
+  image: mashok.jpg
   role: TA
   pronouns: she/her
 
@@ -57,10 +57,9 @@
   email: kve
   year: G1
   major: Biology
-  image: placeholder.jpg
+  image: kve.jpg
   role: TA
   pronouns: he/him
-
 
 - name: Chase Blanchette
   email: chase
@@ -129,8 +128,8 @@
 - name: Emma Isella
   email: emmaisella
   year: Junior
-  major: Geobiology
-  image: placeholder.jpg
+  major: Geobiology & Biology
+  image: eisella.jpg
   role: TA
   pronouns: she/her
 
@@ -138,15 +137,7 @@
   email: vgomez
   year: Junior
   major: Physics
-  image: placeholder.jpg
-  role: TA
-  pronouns: he/him
-
-- name: J Escobar Avila
-  email: jcescoba
-  year: Sophomore
-  major: Applied Physics
-  image: placeholder.jpg
+  image: vgomez.jpg
   role: TA
   pronouns: he/him
 
@@ -154,7 +145,7 @@
   email: jaylens
   year: Sophomore
   major: Planetary Science & Mechanical Engineering
-  image: placeholder.jpg
+  image: jshawcross.png
   role: TA
   pronouns: he/him
 
@@ -162,7 +153,7 @@
   email: sojha
   year: Sophomore
   major: Applied & Computational Math
-  image: placeholder.jpg
+  image: sojha.png
   role: TA
   pronouns: he/him
 
