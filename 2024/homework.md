@@ -11,7 +11,7 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
  
 ## Assignments
 
-**Homework 1** \| *Migrations.* Due April 11th by 11:59pm.
+**Homework 1** \| *Migrations.* Due April 11th by 11:59pm. [[problem set](https://www.dropbox.com/scl/fi/pglst9eeue26ulf3bjf6t/hw1_migrations_PROBLEMS.pdf?rlkey=33gl872qkdgoiyu9jj7l6d0kk&dl=0)]
 
 **Homework 2** \| *Biogeography.* Due April 18th by 11:59pm.
 

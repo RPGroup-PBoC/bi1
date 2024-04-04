@@ -29,14 +29,13 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | -- | -- | -- |
 | tbd | tbd | tbd
 
-<!-- | Monday | 9:00am -- 10:00am | Amelia, Sub, Adele |
+<!-- | Monday | 9:00am -- 10:00am | Patill, Sub, Adele |
 | Monday | 5:00pm -- 6:00pm | Minakshi, Emma, Jaylen |
-| Tuesday | 12:00pm -- 1:00pm | , Chase(?), J(?) |
-| Tuesday | 5:00pm -- 6:00pm | Rosalind, Sidd, [...] |
-| Tuesday | 6:00pm -- 7:00pm | Konnor, Victor, Suchitra |
+| Tuesday | 12:00pm -- 1:00pm | Victor, Chase |
+| Tuesday | 5:00pm -- 6:00pm | Rosalind, Sidd, Amelia |
+| Tuesday | 6:00pm -- 7:00pm | Konnor, Suchitra, David |
 | Wednesday | 9:00am -- 10:00am | Doran, Lucas, Sam |
-| Wednesday | 5:00pm -- 6:00pm | Gabe, Pranay, [...] | -->
-
+| Wednesday | 5:00pm -- 6:00pm | Gabe, Kian, Pranay | -->
 
 
 ### Office Hours
@@ -60,5 +59,5 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | Wednesday | 4:00pm -- 5:00pm | Emma | tbd |
 | Wednesday | 5:00pm -- 6:00pm | Sam | tbd |
 | Wednesday | 7:00pm -- 8:00pm | Pranay | tbd |
-| Thursday | tbd | tbd | tbd |
+| Thursday | 12:00pm -- 1:00pm | Amelia | tbd |
 | Friday | 2:00pm -- 3:00pm | David | tbd | -->

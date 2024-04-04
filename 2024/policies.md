@@ -45,11 +45,12 @@ Any course meetings affected by Ditch Day will be rescheduled and posted on the 
 
 ## Homework Submissions
 
-To ensure proper grading, all homework must be submitted in adherence to the following conventions:
-- For text solutions, submit a single PDF with the filename `lastname_firstname_hw#.pdf` to Gradescope.
+All homework will be submitted to Gradescope.
+To ensure proper grading, homework must be submitted in adherence to the following conventions:
+- For text solutions, submit a single PDF with the filename `lastname_firstname_hw#.pdf`.
 This can be scanned handwritten work, but LaTeX is preferred.
 Assign the pages corresponding to each problem using Gradescope's UI when you do so.
-- For code solutions, submit a completed Colab template notebook with the filename `lastname_firstname_hw#.ipynb` to Canvas.
+- Similarly, for code solutions, submit a completed Colab template notebook with the filename `lastname_firstname_hw#.ipynb` to Gradescope.
 Details on how to work with Colab can be found on the [tutorials page]({{ site.baseurl }}/2024/tutorials).
 
 **Any submission that does not completely adhere to these requirements will not be graded.**
@@ -60,10 +61,8 @@ We do our best to grade homework as transparently and accurately as possible.
 That said, we're only human!
 If you feel we've made a mistake with your submission, you may ask for a regrade.
 
-To request a regrade:
-- For solutions submitted to Gradescope, please use the platform's built-in regrade feature.
-- For solutions submitted to Canvas, email Kian with the subject line `[Homework #] Regrade Request`.
-You may provide a description of any mistakes you feel were made in the body of the email.
+To request a regrade, please use Gradescope's built-in regrade feature.
+You may provide a description of any mistakes you feel were made in the body of your message.
 Please note that regrade decisions are final.
 
 ## Collaboration Policy and the Honor Code
@@ -100,7 +99,7 @@ Instead, type it out by hand and ensure you understand what each line actually d
 
 ## Generative AI Policy
 
-<...>
+(check back soon)
 
 ## Communication
 
