@@ -27,29 +27,26 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 
 | Day | Time | TAs |
 | -- | -- | -- |
-| tbd | tbd | tbd
-
-<!-- | Monday | 9:00am -- 10:00am | Patill, Sub, Adele |
-| Monday | 5:00pm -- 6:00pm | Minakshi, Emma, Jaylen |
-| Tuesday | 12:00pm -- 1:00pm | Victor, Chase |
-| Tuesday | 5:00pm -- 6:00pm | Rosalind, Sidd, Amelia |
-| Tuesday | 6:00pm -- 7:00pm | Konnor, Suchitra, David |
-| Wednesday | 9:00am -- 10:00am | Doran, Lucas, Sam |
-| Wednesday | 5:00pm -- 6:00pm | Gabe, Kian, Pranay | -->
+| Monday | 9:00am -- 10:00am | Patill, Adele & Sub |
+| Monday | 5:00pm -- 6:00pm | Minakshi, Emma & Jaylen |
+| Tuesday | 12:00pm -- 1:00pm | Chase & Victor |
+| Tuesday | 5:00pm -- 6:00pm | Rosalind, Amelia & Sidd |
+| Tuesday | 6:00pm -- 7:00pm | David, Konnor & Suchitra |
+| Wednesday | 9:00am -- 10:00am | Doran, Lucas & Sam |
+| Wednesday | 5:00pm -- 6:00pm | Gabe, Kian & Pranay |
 
 
 ### Office Hours
 
 | Day | Time | TA | Location |
 | -- | -- | -- | -- |
-| tbd | tbd | tbd | tbd |
-
-
-<!-- | Monday | 1:00pm -- 2:00pm | Adele | tbd |
+| Monday | 1:00pm -- 2:00pm | Adele | tbd |
 | Monday | 3:00pm -- 4:00pm | Victor | tbd |
 | Monday | 4:00pm -- 5:00pm | Jaylen | tbd |
 | Monday | 5:00pm -- 6:00pm | Patill | tbd |
+| Monday | 7:00pm -- 8:00pm | Sidd | tbd |
 | Tuesday | 10:00am -- 11:00am | Suchitra | tbd |
+| Tuesday | 3:00pm -- 4:00pm | Kian | tbd |
 | Tuesday | 4:00pm -- 5:00pm | Rosalind | tbd |
 | Tuesday | 7:00pm -- 8:00pm | Konnor | tbd |
 | Wednesday | 10:00am -- 11:00am | Doran | tbd |
@@ -58,6 +55,8 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | Wednesday | 3:00pm -- 4:00pm | Gabe | tbd |
 | Wednesday | 4:00pm -- 5:00pm | Emma | tbd |
 | Wednesday | 5:00pm -- 6:00pm | Sam | tbd |
+| Wednesday | 6:00pm -- 7:00pm | Lucas | tbd |
 | Wednesday | 7:00pm -- 8:00pm | Pranay | tbd |
 | Thursday | 12:00pm -- 1:00pm | Amelia | tbd |
-| Friday | 2:00pm -- 3:00pm | David | tbd | -->
+| Thursday | 3:00pm -- 4:00pm | Chase | tbd |
+| Friday | 2:00pm -- 3:00pm | David | tbd |
