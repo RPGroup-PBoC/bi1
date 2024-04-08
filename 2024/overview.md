@@ -41,22 +41,22 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | Day | Time | TA | Location |
 | -- | -- | -- | -- |
 | Monday | 1:00pm -- 2:00pm | Adele | tbd |
-| Monday | 3:00pm -- 4:00pm | Victor | tbd |
-| Monday | 4:00pm -- 5:00pm | Jaylen | tbd |
-| Monday | 5:00pm -- 6:00pm | Patill | tbd |
-| Monday | 7:00pm -- 8:00pm | Sidd | tbd |
+| Monday | 3:00pm -- 4:00pm | Victor | Chen breezeway |
+| Monday | 4:00pm -- 5:00pm | Jaylen | Chen breezeway |
+| Monday | 5:00pm -- 6:00pm | Patill | Linde 183 |
+| Monday | 7:00pm -- 8:00pm | Sidd | Chen 240A |
 | Tuesday | 10:00am -- 11:00am | Suchitra | tbd |
 | Tuesday | 3:00pm -- 4:00pm | Kian | tbd |
 | Tuesday | 4:00pm -- 5:00pm | Rosalind | tbd |
 | Tuesday | 7:00pm -- 8:00pm | Konnor | tbd |
-| Wednesday | 10:00am -- 11:00am | Doran | tbd |
+| Wednesday | 10:00am -- 11:00am | Doran | Chen breezeway |
 | Wednesday | 1:00pm -- 2:00pm | Minkashi | tbd |
 | Wednesday | 2:00pm -- 3:00pm | Sub | tbd |
 | Wednesday | 3:00pm -- 4:00pm | Gabe | tbd |
 | Wednesday | 4:00pm -- 5:00pm | Emma | tbd |
-| Wednesday | 5:00pm -- 6:00pm | Sam | tbd |
 | Wednesday | 6:00pm -- 7:00pm | Lucas | tbd |
-| Wednesday | 7:00pm -- 8:00pm | Pranay | tbd |
 | Thursday | 12:00pm -- 1:00pm | Amelia | tbd |
 | Thursday | 3:00pm -- 4:00pm | Chase | tbd |
+| Thursday | 4:00pm -- 5:00pm | Sam | Chen breezeway |
+| Thursday | 5:00pm -- 6:00pm | Pranay | Outside Red Door |
 | Friday | 2:00pm -- 3:00pm | David | tbd |
