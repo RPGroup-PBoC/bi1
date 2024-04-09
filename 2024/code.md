@@ -8,7 +8,7 @@ permalink: /2024/tutorials
 ## FAQs
 
 #### What are tutorials?
-Tutorials are weekly sessions hosted by the head GTAs on Tuesday evenings from 7-9pm in [Chen 100](https://www.caltech.edu/map/campus/tianqiao-and-chrissy-chen-neuroscience-research-building).
+Tutorials are weekly sessions hosted by the head GTAs on Wednesday evenings from 7-10pm in [Chen 100](https://www.caltech.edu/map/campus/tianqiao-and-chrissy-chen-neuroscience-research-building).
 They are designed to supplement the rest of the course (lectures, recitations, and office hours), largely by introducing key computational skills relevant to each week's content.
 
 #### Why is there programming in an introductory biology course?
@@ -50,19 +50,17 @@ These sessions will be announced beforehand in lecture so that you don't miss th
 Tutorials are best attended live, but we will also upload recordings below as the course progresses.
 
 ## Tutorial Schedule
-There is no live tutorial Week 1.
+There is no tutorial the first two weeks.
 Instead, there are two notebooks for you to explore independently:
 - [Tutorial 0: Introduction to Colab](https://colab.research.google.com/drive/1fq_HaiuYb1L18uGcoA3eGs6taiUafR-6?usp=sharing) covers our approach to programming in this course, including instructions on how to submit your homework correctly. 
-**This is the only tutorial you are required to read.**
 - [Tutorial 0: Introduction to Python](https://colab.research.google.com/drive/1WGEmPLcuYrGZ7IfvKAqWjRi7yTrTx6k9?usp=sharing) is a gentle, abridged introduction to the Python programming language.
 It's far from comprehensive, but if you're new to the subject, it pairs well with the other tutorials below.
 
 | Week | Date | Topic | Links |
 | :--: | -- | -- | -- |
-| 2 | tbd | Computational sequence analysis. | |
-| 3 | tbd | Plotting. | |
-| 4 | tbd | Stochastic simulations for population genetics. | |
-| 5 | tbd | tbd | |
+| 3 | tbd | Computational sequence analysis. | |
+| 4 | tbd | Plotting. | |
+| 5 | tbd | Stochastic simulations for population genetics. | |
 | 6 | tbd | Working with images. | |
 | 7 | tbd | Image segmentation. | |
 | 8 | tbd | Theory-experiment dialogue. | |

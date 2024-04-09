@@ -23,6 +23,12 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | Tuesday | 1:00pm -- 2:25pm |
 | Thursday | 1:00pm -- 2:25pm |
 
+### Tutorials
+
+| Day | Time |
+| -- | -- |
+| Wednesday | 7:00pm -- 10:00pm |
+
 ### Recitations
 
 | Day | Time | TAs |
@@ -35,26 +41,25 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | Wednesday | 9:00am -- 10:00am | Doran, Lucas & Sam |
 | Wednesday | 5:00pm -- 6:00pm | Gabe, Kian & Pranay |
 
-
 ### Office Hours
 
 | Day | Time | TA | Location |
 | -- | -- | -- | -- |
-| Monday | 1:00pm -- 2:00pm | Adele | tbd |
+| Monday | 1:00pm -- 2:00pm | Adele | Chen breezeway |
 | Monday | 3:00pm -- 4:00pm | Victor | Chen breezeway |
 | Monday | 4:00pm -- 5:00pm | Jaylen | Chen breezeway |
-| Monday | 5:00pm -- 6:00pm | Patill | Linde 183 |
+| Monday | 5:00pm -- 6:00pm | Patill | Outside Red Door |
 | Monday | 7:00pm -- 8:00pm | Sidd | Chen 240A |
-| Tuesday | 10:00am -- 11:00am | Suchitra | tbd |
-| Tuesday | 3:00pm -- 4:00pm | Kian | tbd |
+| Tuesday | 10:00am -- 11:00am | Suchitra | Hameetman Club Room 3 |
 | Tuesday | 4:00pm -- 5:00pm | Rosalind | tbd |
+| Tuesday | 5:00pm -- 6:00pm | Kian | Chen 130 |
 | Tuesday | 7:00pm -- 8:00pm | Konnor | tbd |
 | Wednesday | 10:00am -- 11:00am | Doran | Chen breezeway |
 | Wednesday | 1:00pm -- 2:00pm | Minkashi | tbd |
-| Wednesday | 2:00pm -- 3:00pm | Sub | tbd |
 | Wednesday | 3:00pm -- 4:00pm | Gabe | tbd |
 | Wednesday | 4:00pm -- 5:00pm | Emma | tbd |
 | Wednesday | 6:00pm -- 7:00pm | Lucas | tbd |
+| Wednesday | 10:00pm -- 11:00pm | Sub | tbd |
 | Thursday | 12:00pm -- 1:00pm | Amelia | tbd |
 | Thursday | 3:00pm -- 4:00pm | Chase | tbd |
 | Thursday | 4:00pm -- 5:00pm | Sam | Chen breezeway |
