@@ -55,13 +55,13 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | Tuesday | 5:00pm -- 6:00pm | Kian | Chen 130 |
 | Tuesday | 7:00pm -- 8:00pm | Konnor | Chen 130 |
 | Wednesday | 10:00am -- 11:00am | Doran | Chen breezeway |
-| Wednesday | 1:00pm -- 2:00pm | Minkashi | tbd |
+| Wednesday | 1:00pm -- 2:00pm | Minkashi | Chen breezeway |
 | Wednesday | 3:00pm -- 4:00pm | Gabe | Chen breezeway |
 | Wednesday | 4:00pm -- 5:00pm | Emma | Hameetman Club Room 4 |
 | Wednesday | 6:00pm -- 7:00pm | Lucas | tbd |
 | Wednesday | 10:00pm -- 11:00pm | Sub | tbd |
-| Thursday | 12:00pm -- 1:00pm | Amelia | tbd |
-| Thursday | 3:00pm -- 4:00pm | Chase | tbd |
+| Thursday | 12:00pm -- 1:00pm | Amelia | Hameetman Club Room 4 |
+| Thursday | 3:00pm -- 4:00pm | Chase | Chen breezeway |
 | Thursday | 4:00pm -- 5:00pm | Sam | Chen breezeway |
 | Thursday | 5:00pm -- 6:00pm | Pranay | Outside Red Door |
 | Friday | 2:00pm -- 3:00pm | David | tbd |
