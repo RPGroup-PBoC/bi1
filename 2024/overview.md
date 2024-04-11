@@ -45,7 +45,7 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 
 | Day | Time | TA | Location |
 | -- | -- | -- | -- |
-| Monday | 1:00pm -- 2:00pm | Adele | Chen breezeway |
+| Monday | 1:00pm -- 2:00pm | Adele | Broad 200 |
 | Monday | 3:00pm -- 4:00pm | Victor | Chen breezeway |
 | Monday | 4:00pm -- 5:00pm | Jaylen | Chen breezeway |
 | Monday | 5:00pm -- 6:00pm | Patill | Outside Red Door |
@@ -58,8 +58,8 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | Wednesday | 1:00pm -- 2:00pm | Minkashi | Chen breezeway |
 | Wednesday | 3:00pm -- 4:00pm | Gabe | Chen breezeway |
 | Wednesday | 4:00pm -- 5:00pm | Emma | Hameetman Club Room 4 |
-| Wednesday | 6:00pm -- 7:00pm | Lucas | tbd |
-| Wednesday | 10:00pm -- 11:00pm | Sub | tbd |
+| Wednesday | 6:00pm -- 7:00pm | Lucas | Chen breezeway |
+| Wednesday | 10:00pm -- 11:00pm | Sub | SFL 326 |
 | Thursday | 12:00pm -- 1:00pm | Amelia | Hameetman Club Room 4 |
 | Thursday | 3:00pm -- 4:00pm | Chase | Chen breezeway |
 | Thursday | 4:00pm -- 5:00pm | Sam | Chen breezeway |
