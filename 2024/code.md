@@ -54,7 +54,7 @@ It's far from comprehensive, but if you're new to the subject, it pairs well wit
 
 | Week | Date | Topic | Links |
 | :--: | -- | -- | -- |
-| 3 | tbd | Computational sequence analysis. | |
+| 3 | April 17, 2024 | Computational sequence analysis. | |
 | 4 | tbd | Plotting. | |
 | 5 | tbd | Stochastic simulations for population genetics. | |
 | 6 | tbd | Working with images. | |
