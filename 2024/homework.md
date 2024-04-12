@@ -11,9 +11,14 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
  
 ## Assignments
 
-**Homework 1** \| *Migrations.* Due April 11th by 11:59pm. [[problem set](https://www.dropbox.com/scl/fi/pglst9eeue26ulf3bjf6t/hw1_migrations_PROBLEMS.pdf?rlkey=33gl872qkdgoiyu9jj7l6d0kk&dl=0)]
+**Homework 1** \| *Migrations.* Due April 11th by 11:59pm.
+[[problem set](https://www.dropbox.com/scl/fi/pglst9eeue26ulf3bjf6t/hw1_migrations_PROBLEMS.pdf?rlkey=33gl872qkdgoiyu9jj7l6d0kk&dl=0)]
 
 **Homework 2** \| *Biogeography.* Due April 18th by 11:59pm.
+[[problem set](https://www.dropbox.com/scl/fi/ne55gistfls0zhpaxt4fe/hw2_biogeography_PROBLEMS.pdf?rlkey=irneicn3sbiq240hwad4rqv2r&dl=0)]
+[[code template](https://colab.research.google.com/drive/11lmLRkptBAO6S09NvbB096zDo19E5TqW?usp=sharing)]
+[[island frog data](http://rpdata.caltech.edu/courses/bi1_2023/homework/wk2_biogeography/frogs_st.txt)]
+[[mainland frog data](http://rpdata.caltech.edu/courses/bi1_2023/homework/wk2_biogeography/frogs_africa.txt)]
 
 **Homework 3** \| *Evolution.* Due April 25th by 11:59pm.
 

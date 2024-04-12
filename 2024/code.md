@@ -17,14 +17,10 @@ Thus, many homework problems ask you to write code to perform calculations, simu
 In turn, this allows us to get you working with real experimental data, which is typically a benefit only afforded to students in labs or higher-level courses.
 
 #### What about ChatGPT?
-Tools like ChatGPT and Copilot are fantastically powerful and constantly improving.
-We believe it would be foolish to teach programming in 2024 without them, and we'll certainly use them as resources.
-We don't, however, think that they obviate tutorials and coding assignments; rather, they greatly _expand_ the range of problems you can tackle!
-See the [Generative AI Policy]({{ site.baseurl }}/2024/policies) for guidelines on what constitutes acceptable use.
-
-<!-- However, that doesn't mean you can just turn off your brain; an LLM pair programmer is most effective when you're thoughtful and have some familiarity with the task ahead.
-Accordingly, just generating code without understanding it yourself is bad practice.
-So, while we'll use these resources together,  -->
+Tools like ChatGPT and Copilot are fantastically powerful and constantly improving -- and increasingly part of the modern programmer's workflow.
+However, from a teaching perspective, there's little value in just generating code off-the-cuff.
+Hence the short answer is that while we think these tools are great and useful to employ in other parts of your life, **for the purposes of this class their use is prohibited.**
+See the [Generative AI Policy]({{ site.baseurl }}/2024/policies) for complete guidelines and a note on possible exceptions.
 
 #### Do I need prior programming experience?
 No!

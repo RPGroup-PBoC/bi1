@@ -50,8 +50,8 @@ To ensure proper grading, homework must be submitted in adherence to the followi
 - For text solutions, submit a single PDF with the filename `lastname_firstname_hw#.pdf`.
 This can be scanned handwritten work, but LaTeX is preferred.
 Assign the pages corresponding to each problem using Gradescope's UI when you do so.
-- Similarly, for code solutions, submit a completed Colab template notebook with the filename `lastname_firstname_hw#.ipynb` to Gradescope.
-Details on how to work with Colab can be found on the [tutorials page]({{ site.baseurl }}/2024/tutorials).
+- Similarly, for code solutions, submit a completed, fully-executed Colab template notebook with the filename `lastname_firstname_hw#.ipynb` to Gradescope.
+Details on how to work with Colab (including guidelines for code submissions) can be found on the [tutorials page]({{ site.baseurl }}/2024/tutorials).
 
 **Any submission that does not completely adhere to these requirements will not be graded.**
 
@@ -99,7 +99,11 @@ Instead, type it out by hand and ensure you understand what each line actually d
 
 ## Generative AI Policy
 
-(check back soon)
+You **may not** use generative AI tools (e.g. ChatGPT, Copilot, Colab's built-in AI) in this course.
+This is not to deny the increasingly important role that LLMs play in the modern practice of programming and research; we merely note that, in an instructional capacity in an introductory course, we generally find them counterproductive.
+
+The lone exception is that, on rare occasions, we may _explicitly_ ask you to engage with AI tools on a per-problem basis.
+These cases will be clearly marked on the respective homework sets.
 
 ## Communication
 
