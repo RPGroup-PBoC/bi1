@@ -50,7 +50,7 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | Monday | 4:00pm -- 5:00pm | Jaylen | Chen breezeway |
 | Monday | 5:00pm -- 6:00pm | Patill | Outside Red Door |
 | Monday | 7:00pm -- 8:00pm | Sidd | Chen 240A |
-| Tuesday | 10:00am -- 11:00am | Suchitra | Hameetman Club Room 3 |
+| Tuesday | 11:00am -- 12:00pm | Suchitra | Hameetman Club Room 3 |
 | Tuesday | 4:00pm -- 5:00pm | Rosalind | Chen breezeway |
 | Tuesday | 5:00pm -- 6:00pm | Kian | Chen 130 |
 | Tuesday | 7:00pm -- 8:00pm | Konnor | Chen 130 |
@@ -61,7 +61,7 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | Wednesday | 6:00pm -- 7:00pm | Lucas | Chen breezeway |
 | Wednesday | 10:00pm -- 11:00pm | Sub | SFL 326 |
 | Thursday | 12:00pm -- 1:00pm | Amelia | Hameetman Club Room 4 |
-| Thursday | 3:00pm -- 4:00pm | Chase | Chen breezeway |
+| Thursday | 3:00pm -- 4:00pm | Chase | Hameetman Club Room 2 |
 | Thursday | 4:00pm -- 5:00pm | Sam | Chen breezeway |
 | Thursday | 5:00pm -- 6:00pm | Pranay | Outside Red Door |
-| Friday | 2:00pm -- 3:00pm | David | tbd |
+| Friday | 2:00pm -- 3:00pm | David | Chen breezeway |
