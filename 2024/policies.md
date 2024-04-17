@@ -57,13 +57,11 @@ Details on how to work with Colab (including guidelines for code submissions) ca
 
 ## Homework Regrades
 
-We do our best to grade homework as transparently and accurately as possible.
-That said, we're only human!
-If you feel we've made a mistake with your submission, you may ask for a regrade.
+We do our best to grade homework as transparently and accurately as possible, but we're only human; if you feel we've made a mistake with your submission, you may request a regrade.
+To do so, please use Gradescope's built-in regrade feature, and explain the reason for your request in the body of the message.
 
-To request a regrade, please use Gradescope's built-in regrade feature.
-You may provide a description of any mistakes you feel were made in the body of your message.
-Please note that regrade decisions are final.
+The regrade window for an assignment opens when grades are published and closes one week later.
+Regrade decisions are final.
 
 ## Collaboration Policy and the Honor Code
 
