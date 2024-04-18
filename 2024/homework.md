@@ -23,6 +23,10 @@ Remember that [the use of generative AI tools is prohibited](https://bi1.caltech
 [[mainland frog data](http://rpdata.caltech.edu/courses/bi1_2023/homework/wk2_biogeography/frogs_africa.txt)]
 
 **Homework 3** \| *Evolution.* Due April 25th by 11:59pm.
+[[problem set](https://www.dropbox.com/scl/fi/4ixu9ue0dlik4ua41qgcf/hw3_deeptime_PROBLEMS.pdf?rlkey=3q7btesaa1fpniz7ot93wb7bt&st=ivij8jh4&dl=0)]
+[[code template](https://colab.research.google.com/drive/1qkfwXfMWgyejetTpttHH4SuDjZvV4BgT?usp=sharing)]
+[[ggt_beheregaray.fasta](http://rpdata.caltech.edu/courses/bi1_2023/homework/wk3_deeptime/ggt_beheregaray.fasta)]
+[[ggt_caccone.fasta](http://rpdata.caltech.edu/courses/bi1_2023/homework/wk3_deeptime/ggt_caccone.fasta)]
 
 **Homework 4** \| *Population Genetics.* Due May 2nd by 11:59pm. 
 
