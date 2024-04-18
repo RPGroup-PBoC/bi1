@@ -8,7 +8,7 @@ permalink: /2024/tutorials
 ## FAQs
 
 #### What are tutorials?
-Tutorials are weekly sessions hosted by the head GTAs on Tuesday evenings from 7-10pm in [Chen 100](https://www.caltech.edu/map/campus/tianqiao-and-chrissy-chen-neuroscience-research-building).
+Tutorials are weekly sessions hosted by the head GTAs on Monday evenings from 7-10pm in [Chen 100](https://www.caltech.edu/map/campus/tianqiao-and-chrissy-chen-neuroscience-research-building).
 They are designed to supplement the rest of the course (lectures, recitations, and office hours), largely by introducing key computational skills relevant to each week's content.
 
 #### Why is there programming in an introductory biology course?
@@ -54,8 +54,8 @@ It's far from comprehensive, but if you're new to the subject, it pairs well wit
 
 | Week | Date | Topic | Links |
 | :--: | -- | -- | -- |
-| 3 | April 16, 2024 | Computational sequence analysis. | [[sushi samples](http://rpdata.caltech.edu/courses/bi1_2023/data/sushi_samples.txt)] [[fish reference](http://rpdata.caltech.edu/courses/bi1_2023/data/fish_reference.txt)] |
-| 4 | tbd | Plotting. | |
+| 3 | April 17, 2024 | Computational sequence analysis. | [[sushi samples](http://rpdata.caltech.edu/courses/bi1_2023/data/sushi_samples.txt)] [[fish reference](http://rpdata.caltech.edu/courses/bi1_2023/data/fish_reference.txt)] [[recording](https://drive.google.com/file/d/1RmSdFhtDpzx-TTW3KtvOYYvbKfBuRG5v/view?usp=sharing)]|
+| 4 | April 22, 2024 | Plotting. | |
 | 5 | tbd | Stochastic simulations for population genetics. | |
 | 6 | tbd | Working with images. | |
 | 7 | tbd | Image segmentation. | |
