@@ -29,6 +29,8 @@ Remember that [the use of generative AI tools is prohibited](https://bi1.caltech
 [[ggt_caccone.fasta](http://rpdata.caltech.edu/courses/bi1_2023/homework/wk3_deeptime/ggt_caccone.fasta)]
 
 **Homework 4** \| *Population Genetics.* Due May 2nd by 11:59pm. 
+[[problem set](https://www.dropbox.com/scl/fi/mpo7w9y2jwh81rla236ui/hw4_popgen_PROBLEMS.pdf?rlkey=4cu4na83v37wrh6jfd6iwdm3p&st=7qsvhe56&dl=0)]
+[[code template](https://colab.research.google.com/drive/1T0LKSH2DK-ybWtXUVQoeMqTU3R5PmaC3?usp=sharing)]
 
 **Homework 5** \| *What is Life?* Due May 9th by 11:59pm.
 
