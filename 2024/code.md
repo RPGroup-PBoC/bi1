@@ -55,7 +55,7 @@ It's far from comprehensive, but if you're new to the subject, it pairs well wit
 | Week | Date | Topic | Links |
 | :--: | -- | -- | -- |
 | 3 | April 17, 2024 | Computational sequence analysis. | [[sushi samples](http://rpdata.caltech.edu/courses/bi1_2023/data/sushi_samples.txt)] [[fish reference](http://rpdata.caltech.edu/courses/bi1_2023/data/fish_reference.txt)] [[recording](https://drive.google.com/file/d/1RmSdFhtDpzx-TTW3KtvOYYvbKfBuRG5v/view?usp=sharing)]|
-| 5 | April 29, 2024 | Stochastic simulations for population genetics. | |
+| 5 | April 29, 2024 | Stochastic simulations for population genetics. | [[tutorial recording](https://drive.google.com/file/d/1NTmalpcENGZo5VnSOtuG-Bb5GNno1r2i/view?usp=sharing)] [[tutorial notebook](https://colab.research.google.com/drive/1tJfSWuMQ12X55hm-460lkwOYlY9t1z5B?usp=sharing)] [[supplementary plotting notebook](https://colab.research.google.com/drive/19q0t0MknF1HN1FdZzTDSUXlbqVkCgtea?usp=sharing)] |
 | 6 | tbd | Working with images. | |
 | 7 | tbd | Image segmentation. | |
 | 8 | tbd | Theory-experiment dialogue. | |
