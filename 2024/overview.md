@@ -57,7 +57,7 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 | Wednesday | 10:00am -- 11:00am | Doran | Chen breezeway |
 | Wednesday | 1:00pm -- 2:00pm | Minkashi | Chen breezeway |
 | Wednesday | 3:00pm -- 4:00pm | Gabe | Chen breezeway |
-| Wednesday | 4:00pm -- 5:00pm | Emma | Hameetman Club Room 4 |
+| Wednesday | 4:30pm -- 5:30pm | Emma | Hameetman Club Room 4 |
 | Wednesday | 6:00pm -- 7:00pm | Lucas | Chen breezeway |
 | Wednesday | 10:00pm -- 11:00pm | Sub | SFL 326 |
 | Thursday | 12:00pm -- 1:00pm | Amelia | Hameetman Club Room 4 |
