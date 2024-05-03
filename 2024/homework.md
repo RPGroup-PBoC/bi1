@@ -33,6 +33,7 @@ Remember that [the use of generative AI tools is prohibited](https://bi1.caltech
 [[code template](https://colab.research.google.com/drive/1T0LKSH2DK-ybWtXUVQoeMqTU3R5PmaC3?usp=sharing)]
 
 **Homework 5** \| *What is Life?* Due May 9th by 11:59pm.
+[[problem set](https://www.dropbox.com/scl/fi/zfx5g3ppu34pl3t7q8qdz/hw5_build_cell_PROBLEMS.pdf?rlkey=4njzon3nkzcj6o7xvadlnfinu&st=xnf8paty&dl=0)]
 
 **Homework 6** \| *Gene Expression I: Theory.* Due May 16th by 11:59pm.
 
