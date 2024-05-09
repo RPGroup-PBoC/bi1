@@ -35,7 +35,7 @@ Remember that [the use of generative AI tools is prohibited](https://bi1.caltech
 **Homework 5** \| *What is Life?* Due May 9th by 11:59pm.
 [[problem set](https://www.dropbox.com/scl/fi/zfx5g3ppu34pl3t7q8qdz/hw5_build_cell_PROBLEMS.pdf?rlkey=4njzon3nkzcj6o7xvadlnfinu&st=xnf8paty&dl=0)]
 
-**Homework 6** \| *Gene Expression I: Theory.* Due May 16th by 11:59pm. This set does not require code, except for an optional extra-credit problem (and another problem where code isn't necessary, but may be helpful). Hence there is no template notebook this week. If you decide to submit code, please include e.g. a screenshot in your submission.
+**Homework 6** \| *Gene Expression I: Theory.* Due May 16th by 11:59pm. This set does not require code, except for an optional extra-credit problem (and a few where code isn't *necessary*, but may be helpful). Hence there is no template notebook this week. If you decide to submit code, please include e.g. a screenshot in your submission.
 [[problem set](https://www.dropbox.com/scl/fi/mhq2avmf5kuhqw1f4kuip/wk6_thermodynamic_models_PROBLEMS.pdf?rlkey=b3df00y2o47pj8akxtfwvtelk&st=13ku4grz&dl=0)]
 [[RNAP_matrix.txt](http://rpdata.caltech.edu/courses/bi1_2023/data/RNAP_matrix.txt)]
 
