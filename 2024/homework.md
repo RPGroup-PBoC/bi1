@@ -39,7 +39,11 @@ Remember that [the use of generative AI tools is prohibited](https://bi1.caltech
 [[problem set](https://www.dropbox.com/scl/fi/mhq2avmf5kuhqw1f4kuip/wk6_thermodynamic_models_PROBLEMS.pdf?rlkey=b3df00y2o47pj8akxtfwvtelk&st=13ku4grz&dl=0)]
 [[RNAP_matrix.txt](http://rpdata.caltech.edu/courses/bi1_2023/data/RNAP_matrix.txt)]
 
-**Homework 7** \| *Gene Expression II: Experiment.* Due May 30th by 11:59pm. [[problem set](https://caltech.box.com/s/6snl5sgwpks7jso0e3q6vqk0znnxobdc)] [[code template](https://colab.research.google.com/drive/1EJXPhTiA2CwntWieTCR7Zulc31NkfDRj?usp=sharing)] [[image dataset](http://rpdata.caltech.edu/courses/bi1_2023/data/lacI_titration.zip)] [[lacZ_titration_data.csv](http://rpdata.caltech.edu/courses/bi1_2023/data/lacZ_titration_data.csv)]
+**Homework 7** \| *Gene Expression II: Experiment.* Due May 30th by 11:59pm.
+[[problem set](https://caltech.box.com/s/6snl5sgwpks7jso0e3q6vqk0znnxobdc)]
+[[code template](https://colab.research.google.com/drive/1n6R_77-bu9aKVO4Y6ZSOzdwSBOJJB36y?usp=sharing)]
+[[image dataset](https://caltech.box.com/s/bw1vw4hh63hwedlyhr4lyy8t49pm2rrb)]
+[[lacZ_titration_data.csv](https://caltech.box.com/s/opfj4spquasm6oylp2sjayj0koeg8e0a)]
 
 **Homework 8** \| *Size Control.* Due May 30th by 11:59pm.
 
