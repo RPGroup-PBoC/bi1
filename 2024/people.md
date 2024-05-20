@@ -7,6 +7,7 @@ permalink: /2024/people
 
 All emails are given as `<name>@caltech.edu` unless otherwise specified. 
 
+The course ombuds this quarter are Leo Jankovic (<code>ljankovi</code>) and Albert Yang (<code>zyang4</code>). 
 
 ## Instructor
 
