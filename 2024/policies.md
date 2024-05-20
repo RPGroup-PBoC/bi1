@@ -34,6 +34,8 @@ For example, if your submission is handed in at 1:00 am on the Friday after it i
 A submission received four days late will maximally earn 50%.
 The goal is to encourage timely submissions --- which keeps the turnaround on grading quick for everyone --- while acknowledging that many people have busy schedules.
 
+_In addition, we will automatically drop your lowest-scoring set when calculating your final grade._
+
 ### Absences, Extensions, and Ditch Day
 
 Homework extensions may be granted in extenuating circumstances, and preferably with as much advance notice as possible.
