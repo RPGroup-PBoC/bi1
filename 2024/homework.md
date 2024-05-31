@@ -45,4 +45,4 @@ Remember that [the use of generative AI tools is prohibited](https://bi1.caltech
 [[image dataset](https://caltech.box.com/s/bw1vw4hh63hwedlyhr4lyy8t49pm2rrb)]
 [[lacZ_titration_data.csv](https://caltech.box.com/s/opfj4spquasm6oylp2sjayj0koeg8e0a)]
 
-**Homework 8** \| *Estimates.* Due June 6th by 11:59pm. **Optional for seniors.**
+**Homework 8** \| *Estimates.* Due June 6th by 11:59pm. [[problem set](https://caltech.box.com/s/c21b9147f8sl95ts36srpt30xrprzubj)] **Optional for seniors.**
