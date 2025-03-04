@@ -1,6 +1,7 @@
 - name: Rob Phillips
   email: phillips@pboc.caltech.edu
   role: Professor
+  major: Fred & Nancy Morris Professor of Biophysics & Biology
   image: rob2.png
   link: http://www.rpgroup.caltech.edu
   pronouns: he/him
@@ -16,7 +17,7 @@
 - name: Kian Faizi
   email: kian
   year: G4
-  major: Biology
+  major: Systems Biology
   image: kfaizi.jpg
   role: HTA
   pronouns: he/him
@@ -28,4 +29,142 @@
   image: rpan.jpg
   role: HTA
   pronouns: she/her
+
+- name: Minakshi Ashok
+  email: mashok2
+  year: G3
+  major: Bioengineering
+  image: mashok.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Konnor von Emster
+  email: kve
+  year: G2
+  major: Biology
+  image: kve.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Sara Mahdavi
+  email: smahdavi
+  year: G2
+  major: Biochemistry & Molecular Biophysics
+  image: smahdavi.png
+  role: TA
+  pronouns: she/her
+
+- name: Emma Isella
+  email: emmaisella
+  year: Senior
+  major: Geobiology & Biology
+  image: eisella.jpg
+  role: TA
+  pronouns: she/her
+
+- name: Juni Polansky
+  email: jpolansk
+  year: Senior
+  major: Bioengineering
+  image: jpolansky.png
+  role: TA
+  pronouns: she/her
+
+- name: Sagan Russ
+  email: sruss
+  year: Senior
+  major: Bioengineering
+  image: sruss.png
+  role: TA
+  pronouns: she/her
+
+- name: Sophia Wu
+  email: sjwu
+  year: Senior
+  major: Bioengineering
+  image: swu.png
+  role: TA
+  pronouns: she/her
+
+- name: Victor Gomez
+  email: vgomez
+  year: Senior
+  major: Physics
+  image: vgomez.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Jaylen Shawcross
+  email: jaylens
+  year: Junior
+  major: Planetary Science
+  image: jshawcross.png
+  role: TA
+  pronouns: he/him
+
+- name: Sidd Ojha
+  email: sojha
+  year: Junior
+  major: Applied & Computational Math
+  image: sojha.png
+  role: TA
+  pronouns: he/him
+
+- name: Tanvi Ghanapathy
+  email: tganapat
+  year: Junior
+  major: Bioengineering
+  image: placeholder.jpg
+  role: TA
+  pronouns: 
+
+- name: Aditya Pillai
+  email: ampillai
+  year: Sophomore
+  major: Electrical Engineering
+  image: apillai.png
+  role: TA
+  pronouns: he/him
+
+- name: Albert Yang
+  email: zyang4
+  year: Sophomore
+  major: Physics
+  image: placeholder.jpg
+  role: TA
+  pronouns: 
+
+- name: Bisrat Kassahun
+  email: bkassahu
+  year: Sophomore
+  major: Physics
+  image: bkassahun.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Jason (JT) Tran
+  email: jhtran
+  year: Sophomore
+  major: Electrical Engineering
+  image: jtran.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Karen Zhou
+  email: kzhou
+  year: Sophomore
+  major: Computer Science
+  image: kzhou.png
+  role: TA
+  pronouns: she/her
+
+- name: Leo Jankovic
+  email: ljankovi
+  year: Sophomore
+  major: Computer Science
+  image: placeholder.jpg
+  role: TA
+  pronouns:
+
+
 

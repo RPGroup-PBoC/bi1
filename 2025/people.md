@@ -17,8 +17,9 @@ The course ombuds this quarter are **tbd**.
 <figure>
 <b> <a href="{{ author.link }}">{{ author.name }}</a></b><br/>
 <img width='200' height='200' src="{{ site.baseurl }}/2025/assets/images/people/{{ author.image }}"><br/>
-({{ author.pronouns }})<br/>
 <figcaption>
+{{ author.major }}<br/>
+({{ author.pronouns }})<br/>
 <code>{{ author.email }}</code>
 </figcaption>
 </figure>
@@ -36,7 +37,7 @@ The course ombuds this quarter are **tbd**.
 <b> {{ author.name }} </b><br/>
 <img src="{{ site.baseurl }}/2025/assets/images/people/{{ author.image }}" width="200" height="200"><br/>
 <figcaption>
-<i> {{ author.year }} - {{ author.major }}</i><br/>
+{{ author.year }}, {{ author.major }}<br/>
 ({{ author.pronouns }})<br/>
 <code>{{ author.email }}</code>
 </figcaption>
@@ -54,7 +55,7 @@ The course ombuds this quarter are **tbd**.
 <b> {{ author.name }} </b><br/>
 <img src="{{ site.baseurl }}/2025/assets/images/people/{{ author.image }}" width="200" height="200"><br/>
 <figcaption>
-<i> {{ author.year }} - {{ author.major }}</i><br/>
+{{ author.year }}, {{ author.major }}<br/>
 ({{ author.pronouns }})<br/>
 <code>{{ author.email }}</code>
 </figcaption>

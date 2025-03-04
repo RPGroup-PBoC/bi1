@@ -4,7 +4,7 @@ title: Overview
 cover: about_blank.png
 permalink: /2025/index
 ---
-# Bi 1 | The Great Ideas of Biology
+# Bi 1 | The Great Ideas of Biology (2025)
 
 _"So much of science proceeds by telling stories." --- Stephen Jay Gould_
 
@@ -33,13 +33,13 @@ Unless otherwise noted, all meetings will take place in [Chen 100](https://www.c
 
 | Day | Time | TAs |
 | -- | -- | -- |
-| Monday | 9:00am -- 10:00am | Patill, Adele & Sub |
-| Monday | 5:00pm -- 6:00pm | Minakshi, Emma & Jaylen |
-| Tuesday | 12:00pm -- 1:00pm | Chase & Victor |
-| Tuesday | 5:00pm -- 6:00pm | Rosalind, Amelia & Sidd |
-| Tuesday | 6:00pm -- 7:00pm | David, Konnor & Suchitra |
-| Wednesday | 9:00am -- 10:00am | Doran, Lucas & Sam |
-| Wednesday | 5:00pm -- 6:00pm | Gabe, Kian & Pranay |
+| Monday | 9:00am -- 10:00am | |
+| Monday | 5:00pm -- 6:00pm | |
+| Tuesday | 12:00pm -- 1:00pm | |
+| Tuesday | 5:00pm -- 6:00pm |  |
+| Tuesday | 6:00pm -- 7:00pm | |
+| Wednesday | 9:00am -- 10:00am | |
+| Wednesday | 5:00pm -- 6:00pm | |
 
 ### Office Hours
 
