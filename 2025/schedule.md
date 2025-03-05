@@ -29,7 +29,7 @@ permalink: /2025/schedule
   <tr>
     <td>2</td>
     <td>Tuesday, April 8, 2025</td>
-    <td>Keystone species and trophic cascades. Robert Paine’s seastar experiment. Otters, urchins, and the Aleutians.</td>
+    <td>Keystone species and trophic cascades. Robert Paine’s sea star experiment. Otters, urchins, and the Aleutians.</td>
     <td></td>
   </tr>
   <tr>
@@ -47,49 +47,49 @@ permalink: /2025/schedule
   <tr>
     <td>3</td>
     <td>Thursday, April 17, 2025</td>
-    <td>The whale, part 2. DNA as a document of evolutionary history. The hidden story of whale evolution in DNA.</td>
+    <td>The genome. A revolution in our understanding of heredity.</td>
     <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>Tuesday, April 22, 2025</td>
-    <td>The ingredients of evolution. Heritable variation. Selection and drift.</td>
+    <td>The whale, part 2. DNA as a document of evolutionary history. The hidden story of whale evolution in DNA.</td>
     <td></td>
   </tr>
   <tr>
     <td>4</td>
     <td>Thursday, April 24, 2025</td>
-    <td>The evolution of eye color. Population genetics. The power of stochastic simulations.</td>
+    <td>The ingredients of evolution. Heritable variation. Selection and drift.</td>
     <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td>Tuesday, April 29, 2025</td>
-    <td>Where are the atoms? Ecological stoichometry.</td>
+    <td>The evolution of eye color. Population genetics. The power of stochastic simulations.</td>
     <td></td>
   </tr>
   <tr>
     <td>5</td>
     <td>Thursday, May 1, 2025</td>
-    <td>A green world. Eating the sun.</td>
+    <td>Where are the atoms? Ecological stoichometry.</td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
     <td>Tuesday, May 6, 2025</td>
-    <td>The paths of carbon, nitrogen, and phosphorus in living organisms.</td>
+    <td>A green world. Eating the sun.</td>
     <td></td>
   </tr>
   <tr>
     <td>6</td>
     <td>Thursday, May 8, 2025</td>
-    <td>The cell: biology's atom. The puzzle of cellular structures.</td>
+    <td>The paths of carbon, nitrogen, and phosphorus in living organisms.</td>
     <td></td>
   </tr>
   <tr>
     <td>7</td>
     <td>Tuesday, May 13, 2025</td>
-    <td>The genome. A revolution in our understanding of heredity.</td>
+    <td>The cell: biology's atom. The puzzle of cellular structures.</td>
     <td></td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ permalink: /2025/schedule
   <tr>
     <td>8</td>
     <td>Tuesday, May 20, 2025</td>
-    <td>The cell as a bag of protein; as a bag of RNA; packing and unpacking the bag.</td>
+    <td>The cell as a bag of protein. The cell as a bag of RNA. Packing and unpacking the bag.</td>
     <td></td>
   </tr>
   <tr>
