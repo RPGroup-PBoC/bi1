@@ -42,7 +42,7 @@
   email: kve
   year: G2
   major: Biology
-  image: kve.jpg
+  image: kve.png
   role: TA
   pronouns: he/him
 
@@ -161,10 +161,10 @@
 - name: Leo Jankovic
   email: ljankovi
   year: Sophomore
-  major: Computer Science
-  image: placeholder.jpg
+  major: ISP
+  image: ljankovic.png
   role: TA
-  pronouns:
+  pronouns: he/him
 
 
 
