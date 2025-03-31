@@ -62,30 +62,6 @@
   role: TA
   pronouns: she/her
 
-- name: Juni Polansky
-  email: jpolansk
-  year: Senior
-  major: Bioengineering
-  image: jpolansky.png
-  role: TA
-  pronouns: she/her
-
-- name: Sagan Russ
-  email: sruss
-  year: Senior
-  major: Bioengineering
-  image: sruss.png
-  role: TA
-  pronouns: she/her
-
-- name: Sophia Wu
-  email: sjwu
-  year: Senior
-  major: Bioengineering
-  image: swu.png
-  role: TA
-  pronouns: she/her
-
 - name: Victor Gomez
   email: vgomez
   year: Senior
@@ -110,22 +86,6 @@
   role: TA
   pronouns: he/him
 
-- name: Tanvi Ghanapathy
-  email: tganapat
-  year: Junior
-  major: Bioengineering
-  image: placeholder.jpg
-  role: TA
-  pronouns: 
-
-- name: Aditya Pillai
-  email: ampillai
-  year: Sophomore
-  major: Electrical Engineering
-  image: apillai.png
-  role: TA
-  pronouns: he/him
-
 - name: Albert Yang
   email: zyang4
   year: Sophomore
@@ -139,14 +99,6 @@
   year: Sophomore
   major: Physics
   image: bkassahun.jpg
-  role: TA
-  pronouns: he/him
-
-- name: Jason (JT) Tran
-  email: jhtran
-  year: Sophomore
-  major: Electrical Engineering
-  image: jtran.jpg
   role: TA
   pronouns: he/him
 
