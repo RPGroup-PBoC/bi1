@@ -24,7 +24,7 @@ permalink: /2025/schedule
     <td>1</td>
     <td>Thursday, April 3, 2025</td>
     <td>Where the animals go, part 2. The bar-tailed godwit and its 10,000 km nonstop journey. Humpback whales, from Alaska to Maui and back again.</td>
-    <td></td>
+    <td>HW 1 released</td>
   </tr>
   <tr>
     <td>2</td>
@@ -36,7 +36,7 @@ permalink: /2025/schedule
     <td>2</td>
     <td>Thursday, April 10, 2025</td>
     <td>The species question. The distribution of species in space and time. Island biogeography and the puzzle of amphibians on oceanic islands.</td>
-    <td></td>
+    <td>HW 1 due, HW 2 released</td>
   </tr>
   <tr>
     <td>3</td>
