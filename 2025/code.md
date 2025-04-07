@@ -8,8 +8,7 @@ permalink: /2025/tutorials
 ## FAQs
 
 #### What are tutorials?
-Tutorials are weekly sessions hosted by the head GTAs on Monday evenings from 7-10pm in [Chen 100](https://www.caltech.edu/map/campus/tianqiao-and-chrissy-chen-neuroscience-research-building).
-They are designed to supplement the rest of the course (lectures, recitations, and office hours), largely by introducing key computational skills relevant to each week's content.
+Tutorials are hosted by the head GTAs and designed to supplement the rest of the course (lectures, recitations, and office hours), largely by introducing key computational skills relevant to each week's content.
 
 #### Why is there programming in an introductory biology course?
 Computational skills are increasingly important in modern bioscience.

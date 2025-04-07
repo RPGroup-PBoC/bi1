@@ -35,8 +35,8 @@ Each week will consist of two [lectures]({{ site.baseurl }}/2025/schedule), one 
 | Monday | 5:00pm -- 6:00pm | Chen 100 | Kian & Gabe |
 | Tuesday | 12:00pm -- 1:00pm | Broad 100 | Emma & Victor |
 | Tuesday | 5:00pm -- 6:00pm | Chen 100  | Rosalind & Sidd |
-| Tuesday | 6:00pm -- 7:00pm | Chen 100 | Konnor & Leo |
-| Wednesday | 9:00am -- 10:00am | Chen 100 | Minakshi & Jaylen |
+| Tuesday | 6:00pm -- 7:00pm | Chen 100 | Konnor & Jaylen |
+| Wednesday | 9:00am -- 10:00am | Chen 100 | Minakshi & Leo |
 | Wednesday | 5:00pm -- 6:00pm | Chen 100 | Albert & Sara |
 
 ### Office Hours
