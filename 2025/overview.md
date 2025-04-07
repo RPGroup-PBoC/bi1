@@ -29,15 +29,15 @@ Each week will consist of two [lectures]({{ site.baseurl }}/2025/schedule), one 
 
 ### Recitations
 
-| Day | Time | TAs |
-| -- | -- | -- |
-| Monday | 9:00am -- 10:00am | tbd |
-| Monday | 5:00pm -- 6:00pm | tbd |
-| Tuesday | 12:00pm -- 1:00pm | tbd |
-| Tuesday | 5:00pm -- 6:00pm | tbd  |
-| Tuesday | 6:00pm -- 7:00pm | tbd |
-| Wednesday | 9:00am -- 10:00am | tbd |
-| Wednesday | 5:00pm -- 6:00pm | tbd |
+| Day | Time | Place | TAs |
+| -- | -- | -- | -- |
+| Monday | 9:00am -- 10:00am | Chen 100 | Karen & Bis |
+| Monday | 5:00pm -- 6:00pm | Chen 100 | Kian & Gabe |
+| Tuesday | 12:00pm -- 1:00pm | Broad 100 | Emma & Victor |
+| Tuesday | 5:00pm -- 6:00pm | Chen 100  | Rosalind & Sidd |
+| Tuesday | 6:00pm -- 7:00pm | Chen 100 | Konnor & Leo |
+| Wednesday | 9:00am -- 10:00am | Chen 100 | Minakshi & Jaylen |
+| Wednesday | 5:00pm -- 6:00pm | Chen 100 | Albert & Sara |
 
 ### Office Hours
 
