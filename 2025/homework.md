@@ -14,3 +14,8 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 **Homework 1** \| *Migrations.* Due April 10th by 11:59pm.
 [[problems](https://caltech.box.com/s/35k9a6s1aoqohpqey9l4t1vwa3yvmu4o)]
 
+**Homework 2** \| *Biogeography.* Due April 17th by 11:59pm.
+[[problems](https://caltech.box.com/s/2bzwv4sqr350u72mlogf5c5tlnwqd5wd)]
+[[code template](https://colab.research.google.com/drive/1bd-oY-mTH2Y-RIHhuORhsIeIsxLt7Yn9?usp=sharing)]
+[[island frog data](http://rpdata.caltech.edu/courses/bi1_2023/homework/wk2_biogeography/frogs_st.txt)]
+[[mainland frog data](http://rpdata.caltech.edu/courses/bi1_2023/homework/wk2_biogeography/frogs_africa.txt)]
