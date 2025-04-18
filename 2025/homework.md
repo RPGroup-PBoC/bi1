@@ -19,3 +19,6 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 [[code template](https://colab.research.google.com/drive/1bd-oY-mTH2Y-RIHhuORhsIeIsxLt7Yn9?usp=sharing)]
 [[island frog data](http://rpdata.caltech.edu/courses/bi1_2023/homework/wk2_biogeography/frogs_st.txt)]
 [[mainland frog data](http://rpdata.caltech.edu/courses/bi1_2023/homework/wk2_biogeography/frogs_africa.txt)]
+
+**Homework 3** \| *Deep Time.* Due April 24th by 11:59pm.
+[[problems](https://caltech.box.com/s/opcrku0kdcpuju9pvec4kv7obact8sqq)]
