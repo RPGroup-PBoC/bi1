@@ -46,13 +46,14 @@ Each week will consist of two [lectures]({{ site.baseurl }}/2025/schedule), one 
 | Monday | 10:00am -- 11:00am | Outside Red Door | Karen |
 | Monday | 11:00am -- 12:00pm | Outside Red Door | Bis |
 | Monday | 4:00pm -- 5:00pm | Chen Breezeway | Gabe |
-| Monday | 7:00pm -- 8:00pm | Chen Breezeway | Leo |
+| Monday | 7:00pm -- 8:00pm | Broad 156 | Leo |
 | Tuesday | 4:00pm -- 5:00pm | Chen Breezeway | Rosalind |
 | Tuesday | 5:00pm -- 6:00pm | Outside Red Door | Emma | 
-| Tuesday | 7:00pm -- 8:00pm | Chen 100 | Konnor & Jaylen |
+| Tuesday | 7:00pm -- 8:00pm | Chen 100 | Jaylen |
 | Wednesday | 1:00pm -- 2:00pm | Chen Breezeway | Sara | 
 | Wednesday | 2:00pm -- 3:00pm | Chen Breezeway | Minakshi | 
 | Wednesday | 3:00pm -- 4:00pm | Chen Breezeway | Albert | 
+| Wednesday | 5:00pm -- 6:00 pm| Chen Breezeway | Konnor |
 | Thursday | 5:00pm -- 6:00pm |Chen Breezeway | Kian | 
 | Thursday | 6:00pm -- 7:00pm | Chen Breezeway | Victor |
 | Thursday | 7:00pm -- 8:00pm | Chen 240a | Sidd |
