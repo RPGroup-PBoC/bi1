@@ -22,3 +22,7 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 
 **Homework 3** \| *Deep Time.* Due April 24th by 11:59pm.
 [[problems](https://caltech.box.com/s/opcrku0kdcpuju9pvec4kv7obact8sqq)]
+
+**Homework 4** \| *Population Genetics.* Due May 1st by 11:59pm.
+[[problems](https://caltech.box.com/s/ezg68ppxxhpuio4bqezbnc51v7q2nkve)]
+[[code template](https://colab.research.google.com/drive/1T0LKSH2DK-ybWtXUVQoeMqTU3R5PmaC3?usp=sharing)]

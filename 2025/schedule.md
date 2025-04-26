@@ -48,7 +48,7 @@ permalink: /2025/schedule
     <td>3</td>
     <td>Thursday, April 17, 2025</td>
     <td>The genome. A revolution in our understanding of heredity.</td>
-    <td></td>
+    <td>HW 2 due, HW 3 released</td>
   </tr>
   <tr>
     <td>4</td>
@@ -60,7 +60,7 @@ permalink: /2025/schedule
     <td>4</td>
     <td>Thursday, April 24, 2025</td>
     <td>The ingredients of evolution. Heritable variation. Selection and drift.</td>
-    <td></td>
+    <td>HW 3 due, HW 4 released</td>
   </tr>
   <tr>
     <td>5</td>
@@ -72,7 +72,7 @@ permalink: /2025/schedule
     <td>5</td>
     <td>Thursday, May 1, 2025</td>
     <td>Where are the atoms? Ecological stoichometry.</td>
-    <td></td>
+    <td>HW 4 due</td>
   </tr>
   <tr>
     <td>6</td>
