@@ -53,7 +53,7 @@ Each week will consist of two [lectures]({{ site.baseurl }}/2025/schedule), one 
 | Wednesday | 1:00pm -- 2:00pm | Chen Breezeway | Sara | 
 | Wednesday | 2:00pm -- 3:00pm | Chen Breezeway | Minakshi | 
 | Wednesday | 3:00pm -- 4:00pm | Chen Breezeway | Albert | 
-| Wednesday | 5:00pm -- 6:00 pm| Chen Breezeway | Konnor |
+| Wednesday | 5:00pm -- 6:00 pm| Outside Red Door | Konnor |
 | Thursday | 5:00pm -- 6:00pm |Chen Breezeway | Kian | 
 | Thursday | 6:00pm -- 7:00pm | Chen Breezeway | Victor |
 | Thursday | 7:00pm -- 8:00pm | Chen 240a | Sidd |
