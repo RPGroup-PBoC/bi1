@@ -96,7 +96,7 @@ permalink: /2025/schedule
     <td>7</td>
     <td>Thursday, May 15, 2025</td>
     <td>Probability as the language of molecules. The Boltzmann distribution and binding.</td>
-    <td></td>
+    <td>HW 5 due, HW 6 released</td>
   </tr>
   <tr>
     <td>8</td>
