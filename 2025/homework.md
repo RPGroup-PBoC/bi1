@@ -29,3 +29,6 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 
 **Homework 5** \| *Photosynthesis.* Due May 15th by 11:59pm. (**Note that there is no homework due on Thursday, May 8th.**)
 [[problems](https://caltech.box.com/s/xwgy7et4t2cv04n75td3uqopdxzfsafv)]
+
+**Homework 6** \| *Genes and Atoms.* Due May 22nd by 11:59pm.
+[[problems](https://caltech.box.com/s/ayhisq82nehqqzy05itb6mp99am7k8mr)]

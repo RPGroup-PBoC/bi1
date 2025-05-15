@@ -108,7 +108,7 @@ permalink: /2025/schedule
     <td>8</td>
     <td>Thursday, May 22, 2025</td>
     <td>The secrets of life. DNA. Allostery. Evolution. Nonequilibrium steady states.</td>
-    <td></td>
+    <td>HW 6 due</td>
   </tr>
   <tr>
     <td>9</td>
