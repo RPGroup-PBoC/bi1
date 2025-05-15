@@ -14,9 +14,9 @@ Recitations are held once a week.
 These sessions are led by pairs of graduate and/or undergraduate TAs, and are designed to help guide your thinking on problem sets, and further explore topics introduced in class.
 Feel free to attend whichever section is most convenient, within room capacity limits.
 
-[Tutorials]({{ site.baseurl }}/2025/tutorials) are also held once a week, hosted by the head TAs.
+<!-- [Tutorials]({{ site.baseurl }}/2025/tutorials) are also held once a week, hosted by the head TAs.
 These supplementary sessions are designed to be exploratory extensions of each week's content.
-Examples include a crash course in programming with Python and a live microbiology experiment.
+Examples include a crash course in programming with Python and a live microbiology experiment. -->
 
 ### Attendance
 
@@ -53,7 +53,9 @@ To ensure proper grading, homework must be submitted in adherence to the followi
 This can be scanned handwritten work, but LaTeX is preferred.
 Assign the pages corresponding to each problem using Gradescope's UI when you do so.
 - Similarly, for code solutions, submit a completed, fully-executed Colab template notebook with the filename `lastname_firstname_hw#.ipynb` to Gradescope.
-Details on how to work with Colab (including guidelines for code submissions) can be found on the [tutorials page]({{ site.baseurl }}/2025/tutorials).
+<!-- Details on how to work with Colab (including guidelines for code submissions) can be found on the [tutorials page]({{ site.baseurl }}/2025/tutorials). -->
+Details on how to work with Colab (including guidelines for code submissions) can be found on the [homework page]({{ site.baseurl }}/2025/homework).
+
 
 **Any submission that does not completely adhere to these requirements will not be graded.**
 
@@ -92,10 +94,10 @@ This means that you may work with each other on programming problems but you may
 [...] Help them with your brain, not with your code.
 </blockquote>
 
-We have designed the tutorials to provide you with all of the information you need to complete the coding problems in the homework.
+<!-- We have designed the tutorials to provide you with all of the information you need to complete the coding problems in the homework.
 While you may use any of the code provided in the tutorials to solve your homework, please do not just copy-paste it directly into your notebook.
 This is a good way to learn absolutely nothing.
-Instead, type it out by hand and ensure you understand what each line actually does.
+Instead, type it out by hand and ensure you understand what each line actually does. -->
 
 ## Generative AI Policy
 

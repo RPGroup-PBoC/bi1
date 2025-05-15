@@ -32,3 +32,15 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 
 **Homework 6** \| *Genes and Atoms.* Due May 22nd by 11:59pm.
 [[problems](https://caltech.box.com/s/ayhisq82nehqqzy05itb6mp99am7k8mr)]
+
+## External Resources
+
+* [Bi 1: Introduction to Colab](https://colab.research.google.com/drive/1fq_HaiuYb1L18uGcoA3eGs6taiUafR-6?usp=sharing)
+
+* [Bi 1: Introduction to Python](https://colab.research.google.com/drive/1WGEmPLcuYrGZ7IfvKAqWjRi7yTrTx6k9?usp=sharing)
+
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), MIT
+
+* [BE/Bi/NB 203: Programming in the Biological Sciences](http://justinbois.github.io/bootcamp/2016/), Caltech
+
+* [Be/Bi 103: Data Analysis in the Biological Sciences](http://www.bebi103.caltech.edu), Caltech

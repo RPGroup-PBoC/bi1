@@ -9,7 +9,7 @@ sitemap:
     url: /2025/people
   - title: homework
     url: /2025/homework
-  - title: tutorials
-    url: /2025/tutorials
+  # - title: tutorials
+  #   url: /2025/tutorials
   - title: readings
     url: /2025/readings
