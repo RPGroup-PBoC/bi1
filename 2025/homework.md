@@ -34,7 +34,7 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 [[problems](https://caltech.box.com/s/ayhisq82nehqqzy05itb6mp99am7k8mr)]
 
 **Homework 7** \| *Representations and the Eigenworm.* Project Due June 5th by 11:59pm.
-[[problems](https://www.dropbox.com/scl/fi/waeezmcehlrajzts7ykqx/hw7_eigenwormProject_PROBLEMS.pdf?rlkey=jdd5fta5wbmn8rc145yzbr4n0&e=1&dl=0)]
+[[problems](https://www.dropbox.com/scl/fi/yvh2ax9vd9w4lxkcyaga7/hw7_eigenwormProject_PROBLEMS.pdf?rlkey=te777wypcrlayz9rj6k1bl3ti&dl=0)]
 [[code template](https://colab.research.google.com/drive/1SGMUwibw6s7hpUwB0GJWDJQF0aHptd_T?usp=sharing#scrollTo=FL9rXuErkaN6)]
 
 **Homework 8** \| *Estimates.* Due June 5th by 11:59pm.
