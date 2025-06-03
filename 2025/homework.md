@@ -36,6 +36,7 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 **Homework 7** \| *Representations and the Eigenworm.* Project Due June 5th by 11:59pm.
 [[problems](https://www.dropbox.com/scl/fi/yvh2ax9vd9w4lxkcyaga7/hw7_eigenwormProject_PROBLEMS.pdf?rlkey=te777wypcrlayz9rj6k1bl3ti&dl=0)]
 [[code template](https://colab.research.google.com/drive/1SGMUwibw6s7hpUwB0GJWDJQF0aHptd_T?usp=sharing#scrollTo=FL9rXuErkaN6)]
+[[computational tutorial session: code template](https://colab.research.google.com/drive/1SctCtkC-eNnH2P9EHArQNcUrspPjvguF?usp=sharing)]
 
 **Homework 8** \| *Estimates.* Due June 5th by 11:59pm. **Optional for seniors.**
 [[problems](https://www.dropbox.com/scl/fi/motyiwyulukis9lemnvhg/bi1_hw8_2025_estimates_PROBLEMS.pdf?rlkey=jp8a72lrc0f6k00fqlwab2gbp&dl=0)]
