@@ -1,5 +1,5 @@
 ---
-layout: 2025_post
+layout: 2026_post
 title: People
 cover: phage.jpg
 permalink: /2026/people

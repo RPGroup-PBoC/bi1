@@ -1,5 +1,5 @@
 ---
-layout: 2025_post
+layout: 2026_post
 title: Homework
 cover: homework.jpg
 permalink: /2026/homework

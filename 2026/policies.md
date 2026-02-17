@@ -1,5 +1,5 @@
 ---
-layout: 2025_post
+layout: 2026_post
 title: Policies
 cover: policies.jpg
 permalink: /2026/policies

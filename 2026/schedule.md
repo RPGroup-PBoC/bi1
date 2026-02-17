@@ -1,5 +1,5 @@
 ---
-layout: 2025_post
+layout: 2026_post
 title: Schedule
 cover: syllabus.jpg
 permalink: /2026/schedule
