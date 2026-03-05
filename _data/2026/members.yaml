@@ -2,15 +2,159 @@
   email: phillips@pboc.caltech.edu
   role: Professor
   major: Fred & Nancy Morris Professor of Biophysics & Biology
-  image: rob2.png
+  image: phillips.png
   link: http://www.rpgroup.caltech.edu
   pronouns: he/him
 
 - name: Kian Faizi
   email: kian
-  year: G4
-  major: Systems Biology
-  image: kfaizi.jpg
+  year: G5
+  major: Systems Bio
+  image: faizi.jpg
   role: HTA
   pronouns: he/him
+
+- name: Rosalind Pan
+  email: rosalind
+  year: G4
+  major: BMB
+  image: pan.jpg
+  role: HTA
+  pronouns: she/her
+
+- name: Sara Mahdavi
+  email: smahdavi
+  year: G3
+  major: BMB
+  image: mahdavi.png
+  role: TA
+  pronouns: she/her
+
+- name: Tanvi Ganapathy
+  email: tganapat@caltech.edu
+  year: Senior
+  major: BioE
+  image: ganapathy.png
+  role: TA
+  pronouns: she/her
+
+- name: Ryan Leal
+  email: rleal@caltech.edu
+  year: Senior
+  major: Math & Econ
+  image: leal.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Sidd Ojha
+  email: sojha@caltech.edu
+  year: Senior
+  major: ACM
+  image: ojha.png
+  role: TA
+  pronouns: he/him
+
+- name: Pierre Zeineddin
+  email: pzeinedd@caltech.edu
+  year: Senior
+  major: BioE
+  image: zeineddin.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Beatrice Cai
+  email: bcai@caltech.edu
+  year: Junior
+  major: Bio
+  image: cai.png
+  role: TA
+  pronouns: she/her
+
+- name: Grace Davis
+  email: gfdavis@caltech.edu
+  year: Junior
+  major: Chem
+  image: davis.png
+  role: TA
+  pronouns: she/her
+
+- name: Stephen Lo
+  email: stlo@caltech.edu
+  year: Junior
+  major: BioE
+  image: lo.jpeg
+  role: TA
+  pronouns: he/him
+
+- name: Orna Mukhopadhyay
+  email: orna@caltech.edu
+  year: Junior
+  major: BioE
+  image: elster.png
+  role: TA
+  pronouns: she/they
+
+- name: Tanish Rao
+  email: trao2@caltech.edu
+  year: Junior
+  major: BioE
+  image: rao.png
+  role: TA
+  pronouns: he/him
+
+- name: Emily Tu
+  email: etu2@caltech.edu
+  year: Junior
+  major: BioE
+  image: tu.png
+  role: TA
+  pronouns: she/her
+
+- name: Albert Yang
+  email: zyang4@caltech.edu
+  year: Junior
+  major: Physics
+  image: yang.png
+  role: TA
+  pronouns: he/him
+
+- name: Karen Zhou
+  email: kzhou@caltech.edu
+  year: Junior
+  major: CS
+  image: zhou.png
+  role: TA
+  pronouns: she/her
+
+- name: Maxwell Braithwaite
+  email: mbraithw@caltech.edu
+  year: Sophomore
+  major: MechE
+  image: braithwaite.png
+  role: TA
+  pronouns: he/him
+
+- name: Naya Kessman
+  email: nkessman@caltech.edu
+  year: Sophomore
+  major: ACM
+  image: kessman.png
+  role: TA
+  pronouns: she/her
+  
+- name: Andrew Oldag
+  email: aoldag@caltech.edu
+  year: Sophomore
+  major: BioE
+  image: oldag.jpg
+  role: TA
+  pronouns: he/him
+
+- name: Otis Otieno
+  email: rotieno
+  year: . 
+  major: .
+  image: elster.png
+  role: TA
+  pronouns: .
 
