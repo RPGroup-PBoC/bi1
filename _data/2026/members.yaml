@@ -94,6 +94,14 @@
   role: TA
   pronouns: she/they
 
+- name: Robert Otieno
+  email: rotieno
+  year: Junior
+  major: ACM
+  image: otieno.png
+  role: TA
+  pronouns: he/him
+
 - name: Tanish Rao
   email: trao2@caltech.edu
   year: Junior
