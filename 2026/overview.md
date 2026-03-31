@@ -19,8 +19,8 @@ Each week will consist of two [lectures]({{ site.baseurl }}/2026/schedule), reci
 
 | Day | Time | Place |
 | -- | -- | -- |
-| Tuesday | 1:00pm -- 2:25pm | [Broad 100](https://www.caltech.edu/map/campus/broad-center-for-the-biological-sciences) |
-| Thursday | 1:00pm -- 2:25pm | [Broad 100](https://www.caltech.edu/map/campus/broad-center-for-the-biological-sciences) |
+| Tuesday | 1:00pm -- 2:25pm | Chen 100 |
+| Thursday | 1:00pm -- 2:25pm | Chen 100 |
 
 <!-- ### Tutorials
 
@@ -32,10 +32,10 @@ Each week will consist of two [lectures]({{ site.baseurl }}/2026/schedule), reci
 
 | Day | Time | Place | TAs |
 | -- | -- | -- | -- |
-| Wednesday | 5:00pm -- 6:00pm | Chen 100 | Albert & Sara |
+| tbd | tbd | tbd | tbd |
 
 ### Office Hours
 
 | Day | Time | Place | TAs |
 | -- | -- | -- | -- |
-| Monday | 10:00am -- 11:00am | Outside Red Door | Karen |
+| tbd | tbd | tbd | tbd |
