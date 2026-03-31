@@ -29,7 +29,7 @@ permalink: /2026/schedule
   <tr>
     <td>2</td>
     <td>Tuesday, April 7, 2026</td>
-    <td>Keystone species and trophic cascades. Robert Paine’s sea star experiment. Otters, urchins, and the Aleutians.</td>
+    <td>Keystone species and trophic cascades. Robert Paine’s sea star experiment. Otters, urchins, and the Aleutians. **This lecture has been moved to the Beckman Institute Auditorium.**</td>
     <td></td>
   </tr>
   <tr>
