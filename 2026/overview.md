@@ -33,19 +33,18 @@ Recitations and office hours begin the second week of class.
 
 | Day       | Time                  | Place     | TAs                    |
 |-----------|-----------------------|-----------|------------------------|
-| Monday    | 9:00am – 9:55am       | Chen 100  | Karen, Beatrice, Grace |
-| Monday    | 5:00pm – 5:55pm       | Chen 100  | Rosalind, Kian, Sidd   |
-| Tuesday   | 12:00pm – 12:55pm     | Chen 100  | Pierre, Andrew, Maxwell|
-| Tuesday   | 5:00pm – 5:55pm       | Chen 100  | Orna, Emily            |
-| Tuesday   | 6:00pm – 6:55pm       | Chen 100  | Sara, Albert, Tanvi    |
-| Wednesday | 9:00am – 9:55am       | Chen 100  | Stephen, Tanish, Naya  |
-| Wednesday | 5:00pm – 5:55pm       | Chen 100  | Ryan, Jayden, Otis     |
+| Monday    | 9:00am – 9:55am       | Broad 100  | Karen, Beatrice, Grace |
+| Monday    | 5:00pm – 5:55pm       | Broad 100  | Rosalind, Kian, Sidd   |
+| Tuesday   | 12:00pm – 12:55pm     | Chen 100   | Pierre, Andrew, Maxwell|
+| Tuesday   | 5:00pm – 5:55pm       | Broad 100  | Orna, Emily            |
+| Tuesday   | 6:00pm – 6:55pm       | Broad 100  | Sara, Albert, Tanvi    |
+| Wednesday | 9:00am – 9:55am       | Broad 100  | Stephen, Tanish, Naya  |
+| Wednesday | 5:00pm – 5:55pm       | Broad 100  | Ryan, Jayden, Otis     |
 
 ### Office Hours
 
 | Day       | Time                  | Place                          | TAs              |
 |-----------|-----------------------|--------------------------------|------------------|
-| tbd       | tbd                   | tbd                            | Albert           |
 | tbd       | tbd                   | tbd                            | Naya             |
 | Sunday    | 7:00pm – 8:00pm       | Second Floor of Chen           | Maxwell          |
 | Sunday    | 8:00pm – 9:00pm       | Chen 100                       | Andrew           |
@@ -55,10 +54,11 @@ Recitations and office hours begin the second week of class.
 | Monday    | 1:00pm – 2:00pm       | Broad 156                      | Rosalind         |
 | Monday    | 7:00pm – 8:00pm       | Red Door Basement              | Tanish, Stephen  |
 | Tuesday   | 12:30pm – 1:30pm      | SFL 328                        | Grace            |  
+| Tuesday   | 1:00pm – 2:00pm       | Broad 156                      | Albert           |
 | Tuesday   | 2:45pm – 3:45pm       | Outside Red Door               | Pierre           |
 | Tuesday   | 4:00pm – 5:00pm       | Second Floor of Chen           | Tanvi            |
 | Wednesday | 1:00pm – 2:00pm       | Broad 156                      | Sara             |
-| Thursday  | 11:00pm – 12:00am     | Second Floor of Chen           | Ryan             |
+| Wednesday | 8:00pm – 9:00pm       | Second Floor of Chen           | Ryan             |
 | Thursday  | 5:00pm – 6:00pm       | Second Floor of Chen           | Sidd             |
 | Friday    | 10:00am – 11:00am     | SFL room tbd                   | Beatrice         |
 | Friday    | 8:00pm – 9:00pm       | Second Floor of Chen           | Otis             |
