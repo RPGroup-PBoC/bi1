@@ -45,12 +45,11 @@ Recitations and office hours begin the second week of class.
 
 | Day       | Time                  | Place                          | TAs              |
 |-----------|-----------------------|--------------------------------|------------------|
-| tbd       | tbd                   | tbd                            | Naya             |
 | Sunday    | 7:00pm – 8:00pm       | Second Floor of Chen           | Maxwell          |
 | Sunday    | 8:00pm – 9:00pm       | Chen 100                       | Andrew           |
-| Sunday    | 11:00am               | Outside Red Door               | Emily, Orna      |
+| Sunday    | 11:00am – 12:00pm     | Outside Red Door               | Emily, Orna      |
 | Monday    | 10:00am – 11:00am     | Outside Red Door               | Karen            |
-| Monday    | 12:30pm – 1:30pm      | Outside Broad Cafe             | Kian             |
+| Monday    | 4:00pm – 5:00pm       | Chen breezeway                 | Kian             |
 | Monday    | 1:00pm – 2:00pm       | Broad 156                      | Rosalind         |
 | Monday    | 7:00pm – 8:00pm       | Red Door Basement              | Tanish, Stephen  |
 | Tuesday   | 12:30pm – 1:30pm      | SFL 328                        | Grace            |  
@@ -63,3 +62,4 @@ Recitations and office hours begin the second week of class.
 | Friday    | 10:00am – 11:00am     | SFL room tbd                   | Beatrice         |
 | Friday    | 8:00pm – 9:00pm       | Second Floor of Chen           | Otis             |
 | Saturday  | 3:00pm – 4:00pm       | Second Floor of Chen           | Jayden           |
+| tbd       | tbd                   | tbd                            | Naya             |
