@@ -52,14 +52,14 @@ Recitations and office hours begin the second week of class.
 | Monday    | 4:00pm – 5:00pm       | Chen breezeway                 | Kian             |
 | Monday    | 1:00pm – 2:00pm       | Broad 156                      | Rosalind         |
 | Monday    | 7:00pm – 8:00pm       | Red Door Basement              | Tanish, Stephen  |
-| Tuesday   | 12:30pm – 1:30pm      | SFL 328                        | Grace            |  
-| Tuesday   | 1:00pm – 2:00pm       | Broad 156                      | Albert           |
+| Tuesday   | 12:00pm – 1:00pm      | SFL 328                        | Grace            |  
 | Tuesday   | 2:45pm – 3:45pm       | Outside Red Door               | Pierre           |
 | Tuesday   | 4:00pm – 5:00pm       | Second Floor of Chen           | Tanvi            |
 | Wednesday | 1:00pm – 2:00pm       | Broad 156                      | Sara             |
+| Wednesday | 4:00pm – 5:00pm       | Broad 156                      | Albert           |
 | Wednesday | 8:00pm – 9:00pm       | Second Floor of Chen           | Ryan             |
-| Thursday  | 5:00pm – 6:00pm       | Second Floor of Chen           | Sidd             |
+| Thursday  | 5:00pm – 6:00pm       | Chen 130                       | Sidd             |
 | Friday    | 10:00am – 11:00am     | SFL room 326                   | Beatrice         |
+| Friday    | 1:00pm – 2:00pm       | Outside Red Door               | Naya             |
 | Friday    | 8:00pm – 9:00pm       | Second Floor of Chen           | Otis             |
 | Saturday  | 3:00pm – 4:00pm       | Second Floor of Chen           | Jayden           |
-| tbd       | tbd                   | tbd                            | Naya             |
