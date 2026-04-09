@@ -36,7 +36,7 @@ permalink: /2026/schedule
     <td>2</td>
     <td>Thursday, April 9, 2026</td>
     <td>The species question. The distribution of species in space and time. Island biogeography and the puzzle of amphibians on oceanic islands.</td>
-    <td>HW 1 due, HW 2 released</td>
+    <td>HW 1 due **Friday night**, HW 2 released</td>
   </tr>
   <tr>
     <td>3</td>
