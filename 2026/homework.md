@@ -13,7 +13,7 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 
 **Homework 1** \| *Migrations.* Due **Friday, April 10th** by 11:59pm. [[problems](https://caltech.box.com/s/9rhquw0qc2euex08fpfmulgrv61eae2b)]
 
-**Homework 2** \| *Biogeography.* Due **Friday, April 16th** by 11:59pm. [[problems](https://caltech.box.com/s/ubtpzd4zfo4qbwsu9j7orrbbgd59f2z2)]
+**Homework 2** \| *Biogeography.* Due **Thursday, April 16th** by 11:59pm. [[problems](https://caltech.box.com/s/ubtpzd4zfo4qbwsu9j7orrbbgd59f2z2)]
 
 ## External Resources
 
