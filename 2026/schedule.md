@@ -72,7 +72,7 @@ permalink: /2026/schedule
     <td>5</td>
     <td>Thursday, April 30, 2026</td>
     <td>Where are the atoms? Ecological stoichometry.</td>
-    <td>HW 4 due</td>
+    <td>HW 4 due, HW 5 released</td>
   </tr>
   <tr>
     <td>6</td>
@@ -84,7 +84,7 @@ permalink: /2026/schedule
     <td>6</td>
     <td>Thursday, May 7, 2026</td>
     <td>The paths of carbon, nitrogen, and phosphorus in living organisms.</td>
-    <td></td>
+    <td>HW 5 due, HW 6 released</td>
   </tr>
   <tr>
     <td>7</td>
@@ -96,7 +96,7 @@ permalink: /2026/schedule
     <td>7</td>
     <td>Thursday, May 14, 2026</td>
     <td>Probability as the language of molecules. The Boltzmann distribution and binding.</td>
-    <td>HW 5 due, HW 6 released</td>
+    <td>HW 6 due, HW 7 released</td>
   </tr>
   <tr>
     <td>8</td>
@@ -108,7 +108,7 @@ permalink: /2026/schedule
     <td>8</td>
     <td>Thursday, May 21, 2026</td>
     <td>The secrets of life. DNA. Allostery. Evolution. Nonequilibrium steady states.</td>
-    <td>HW 6 due</td>
+    <td>HW 7 due, HW 8 released</td>
   </tr>
   <tr>
     <td>9</td>
@@ -120,7 +120,7 @@ permalink: /2026/schedule
     <td>9</td>
     <td>Thursday, May 28, 2026</td>
     <td>Locomotion of snakes, worms, and lizards. Taming the gait. Geometric phases.</td>
-    <td></td>
+    <td>HW 8 due</td>
   </tr>
   <tr>
     <td>10</td>

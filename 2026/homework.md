@@ -25,6 +25,11 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 [[problems](https://caltech.box.com/s/0rze4vx38oqm8zahcui6r0xlqen4ws16)]
 [[code template](https://colab.research.google.com/drive/1T0LKSH2DK-ybWtXUVQoeMqTU3R5PmaC3?usp=sharing)]
 
+**Homework 5** \| *Development and the French Flag model.* Due **Thursday, May 7th** by 11:59pm.
+[[problems](https://caltech.box.com/s/iwayu259n3q3u45i7dqare76b3qkaz5q)]
+[[code template](https://colab.research.google.com/drive/1yrj_NtLEWFfYMSxru0upahUVYuCp4Xav?usp=sharing)]
+[[papers](https://caltech.box.com/s/j22qtwg0hw1i9rzs56q3a2td5nidk1xe)]
+
 ## External Resources
 
 * [Bi 1: Introduction to Colab](https://colab.research.google.com/drive/1fq_HaiuYb1L18uGcoA3eGs6taiUafR-6?usp=sharing)
