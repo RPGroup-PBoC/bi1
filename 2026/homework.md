@@ -30,6 +30,9 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 [[code template](https://colab.research.google.com/drive/1yrj_NtLEWFfYMSxru0upahUVYuCp4Xav?usp=sharing)]
 [[papers](https://caltech.box.com/s/j22qtwg0hw1i9rzs56q3a2td5nidk1xe)]
 
+**Homework 6** \| *Gene regulation.* Due **Thursday, May 14th** by 11:59pm.
+[[problems](https://caltech.box.com/s/pbilg8zabcb83bjabs844tq6hskseyho)]
+
 ## External Resources
 
 * [Bi 1: Introduction to Colab](https://colab.research.google.com/drive/1fq_HaiuYb1L18uGcoA3eGs6taiUafR-6?usp=sharing)
