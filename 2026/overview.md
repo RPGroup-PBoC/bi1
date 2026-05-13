@@ -54,7 +54,7 @@ Recitations and office hours begin the second week of class.
 | Tuesday   | 12:00pm – 1:00pm      | SFL 328                        | Grace            |  
 | Tuesday   | 2:45pm – 3:45pm       | Outside Red Door               | Pierre           |
 | Wednesday | 1:00pm – 2:00pm       | Broad 156                      | Sara             |
-| Wednesday | 4:00pm – 5:00pm       | Broad 156                      | Albert           |
+| Wednesday | 4:00pm – 5:00pm       | Second Floor of Broad          | Albert           |
 | Wednesday | 6:00pm – 7:00pm       | Outside Red Door               | Tanvi            |
 | Wednesday | 8:00pm – 9:00pm       | Second Floor of Chen           | Ryan             |
 | Thursday  | 5:00pm – 6:00pm       | Chen 130                       | Sidd             |
