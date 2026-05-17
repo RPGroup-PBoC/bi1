@@ -108,7 +108,7 @@ permalink: /2026/schedule
     <td>8</td>
     <td>Thursday, May 21, 2026</td>
     <td>The secrets of life. DNA. Allostery. Evolution. Nonequilibrium steady states.</td>
-    <td>HW 7 due **Friday night**, HW 8 released</td>
+    <td>HW 7 due **Sunday night**, HW 8 released</td>
   </tr>
   <tr>
     <td>9</td>

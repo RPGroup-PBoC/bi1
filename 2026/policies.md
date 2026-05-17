@@ -38,7 +38,7 @@ Homework extensions may be granted in extenuating circumstances, and preferably 
 Last-minute requests (or requests after the deadline) will generally not be granted.
 To request an extension, email Kian with the subject line `[Homework #] Extension Request`.
 
-In the event that Ditch Day falls on the day that an assignment is due, the deadline will be extended by two calendar days (i.e., if Ditch Day is on a Thursday when a problem set is due, then the revised due date will be Saturday at 12:00 pm).
+In the event that Ditch Day falls on the day that an assignment is due, the deadline will be extended by two calendar days (i.e., if Ditch Day is on a Thursday when a problem set is due, then the revised due date will be Saturday at 11:59 pm).
 Any course meetings affected by Ditch Day will be rescheduled and posted on the homepage.
 
 ## Homework Submissions

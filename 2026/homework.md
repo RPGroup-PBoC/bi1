@@ -33,7 +33,7 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 **Homework 6** \| *Gene regulation.* Due **Thursday, May 14th** by 11:59pm.
 [[problems](https://caltech.box.com/s/pbilg8zabcb83bjabs844tq6hskseyho)]
 
-**Homework 7** \| *The Eigenworm.* Due **Friday, May 22nd** by 11:59pm.
+**Homework 7** \| *The Eigenworm.* Due **Sunday, May 24th** by 11:59pm.
 [[problems](https://caltech.box.com/s/qq2rit7k93uswndlriz4flgdyd3m9mmm)]
 
 ## External Resources
