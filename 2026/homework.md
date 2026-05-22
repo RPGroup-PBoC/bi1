@@ -36,6 +36,9 @@ Before submitting an assignment, take a moment to familiarize yourself with the 
 **Homework 7** \| *The Eigenworm.* Due **Sunday, May 24th** by 11:59pm.
 [[problems](https://caltech.box.com/s/qq2rit7k93uswndlriz4flgdyd3m9mmm)]
 
+**Homework 8** \| *Order-of-magnitude buffet.* Due **Thursday, May 28th** by 11:59pm. (Optional for seniors.)
+[[problems](https://caltech.box.com/s/uvd69iawqj0sriksayy7i91pub9kc6fx)]
+
 ## External Resources
 
 * [Bi 1: Introduction to Colab](https://colab.research.google.com/drive/1fq_HaiuYb1L18uGcoA3eGs6taiUafR-6?usp=sharing)
